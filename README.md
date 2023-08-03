@@ -1,5 +1,7 @@
 # EJ Fox Nuxt 3 Starter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/981b9e46-6878-4ddb-a716-2713c5f3e412/deploy-status)](https://app.netlify.com/sites/ejfox-nuxt-template/deploys)
+
 ## What's different from the standard Nuxt 3 starter?
 - Tachyons 🌟 
 - VueUse 🔧 
