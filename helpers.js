@@ -9,7 +9,7 @@ function contrastTextColor(backgroundColor) {
   if (!backgroundColor) return "#000000";
   // turn the bg color into a d3 color so we can do color math
   const d3Color = d3.color(backgroundColor);
-  const colorHsl = d3.hsl(d3Color);
+  // const colorHsl = d3.hsl(d3Color);
 
   // figure out if the bg is light or dark based on our threshold
   const threshold = 0.6;
