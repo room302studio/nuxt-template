@@ -12,9 +12,9 @@
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src"
   },
   "devDependencies": {
-    "nuxt": "^3.6.5",
     "@nuxt/devtools": "^1.0.0",
-    "@types/node": "^18.17.1"
+    "@types/node": "^18.17.1",
+    "nuxt": "^3.6.5"
   },
   "dependencies": {
     "@nuxtjs/google-fonts": "^3.0.2",
@@ -23,7 +23,7 @@
     "@vueuse/motion": "^2.0.0-beta.25",
     "@vueuse/nuxt": "^9.13.0",
     "d3": "^7.8.5",
-    "v-onboarding": "^2.5.1",
-    "eslint-config-prettier": "^9.0.0"
+    "eslint-config-prettier": "^9.0.0",
+    "v-onboarding": "^2.5.1"
   }
 }
