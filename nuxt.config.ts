@@ -17,7 +17,6 @@ export default defineNuxtConfig({
   modules: [
     // '@nuxtjs/supabase',
     '@vueuse/nuxt',
-    '@pinia/nuxt',
     '@vueuse/motion/nuxt',
     ['@nuxtjs/google-fonts', {
       families: {
