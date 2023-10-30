@@ -1,6 +1,6 @@
 {
   "name": "nuxt-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -22,7 +22,7 @@
     "@pinia/nuxt": "^0.4.11",
     "@vueuse/motion": "^2.0.0-beta.25",
     "@vueuse/nuxt": "^9.13.0",
-    "d3": "^7.8.5",    
+    "d3": "^7.8.5",
     "v-onboarding": "^2.5.1",
     "eslint-config-prettier": "^9.0.0"
   }
