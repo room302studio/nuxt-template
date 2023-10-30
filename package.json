@@ -19,12 +19,10 @@
   "dependencies": {
     "@nuxtjs/google-fonts": "^3.0.2",
     "@nuxtjs/supabase": "^1.0.1",
-    "@pinia/nuxt": "^0.4.11",
     "@vueuse/motion": "^2.0.0-beta.25",
     "@vueuse/nuxt": "^9.13.0",
     "d3": "^7.8.5",
     "eslint-config-prettier": "^9.0.0",
-    "pinia": "^2.1.7",
     "v-onboarding": "^2.5.1"
   }
 }
