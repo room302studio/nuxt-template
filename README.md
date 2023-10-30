@@ -8,11 +8,9 @@
 Deployed through a small script that handles naming, cloning, and setting up the repo for prototyping. <https://www.npmjs.com/package/room302-template>
 
 ## What's different from the standard Nuxt 3 starter?
-- Tachyons 🌟 
 - VueUse 🔧 
 - Vueuse motion 🌈 
 - OpenAI plugin 🧠 
-- Toasts 🍞 
 - Pinia store 🏬 
 - Helpers file 🔨 
 - Google fonts 🖋️ 
