@@ -1,6 +1,6 @@
 {
   "name": "nuxt-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -8,22 +8,21 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prettier": "prettier {*.*,**/*.*} --single-quote --write"
+    "prettier": "prettier {*.*,**/*.*} --single-quote --write",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
+    "@nuxt/devtools": "^1.0.0",
     "@types/node": "^18.17.1",
     "nuxt": "^3.6.5"
   },
   "dependencies": {
     "@nuxtjs/google-fonts": "^3.0.2",
     "@nuxtjs/supabase": "^1.0.1",
-    "@pinia/nuxt": "^0.4.11",
     "@vueuse/motion": "^2.0.0-beta.25",
     "@vueuse/nuxt": "^9.13.0",
     "d3": "^7.8.5",
-    "tachyons": "^4.12.0",
-    "v-onboarding": "^2.5.1",
-    "vue-toast-notification": "^3.1.1"
+    "eslint-config-prettier": "^9.0.0",
+    "v-onboarding": "^2.5.1"
   }
 }

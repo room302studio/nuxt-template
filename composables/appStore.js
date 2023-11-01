@@ -1,34 +1,35 @@
-// Import defineStore from Pinia.
-import { defineStore } from 'pinia'
+// Import necessary functions from Vue and VueUse
+import { createGlobalState, useLocalStorage } from '@vueuse/core'
 
-// Define the usage of the store. Use the name of your store in camel case. For example, 'useBaseStore' for 'base' store.
-export const useAppStore = defineStore('base', {
-  // The state function returns a object containing all properties of the state. 
-  // We use useLocalStorage here to persist data in the local storage.
-  state: () => {
-    return {
-      activeItem: useLocalStorage('activeItem', null), // Replace "item" with your model name.
-      itemList: useLocalStorage('itemList', []), // Replace "item" with your model name and "List" with your list name.
+// Define the global state using createGlobalState from VueUse
+export const useAppStore = createGlobalState(() => {
+  // useLocalStorage is a VueUse function that creates a ref linked to a localStorage key.
+  // It takes two arguments: the localStorage key and the default value.
+  const activeItem = useLocalStorage('activeItem', null)
+  const itemList = useLocalStorage('itemList', [])
+
+  // Define actions that mutate the state. These are functions that modify the refs.
+  const setActiveItem = (item) => {
+    activeItem.value = item
+  }
+
+  const addItem = (item) => {
+    itemList.value.push(item)
+  }
+
+  const removeItem = (item) => {
+    const index = itemList.value.indexOf(item)
+    if (index !== -1) {
+      itemList.value.splice(index, 1)
     }
-  },
-  
-  // This object contains all methods that will mutate the state.
-  actions: {
-    // Method to set active item. Replace 'Item' with your model name.
-    setActiveItem(item) {
-      this.activeItem = item
-    },
+  }
 
-    // Method to add an item to the item list. Replace 'Item' with your model name.
-    addItem(item) {
-      this.itemList.push(item)
-    },
-
-    // Method to remove an item from the item list. Replace 'Item' with your model name.
-    removeItem(item) {
-      const index = this.itemList.indexOf(item)
-      // Splice method is used to remove the item from array.
-      this.itemList.splice(index, 1)
-    },
-  },
+  // The object returned here will be the global state that can be accessed in any component.
+  return {
+    activeItem,
+    itemList,
+    setActiveItem,
+    addItem,
+    removeItem,
+  }
 })
