@@ -18,6 +18,7 @@ export default defineNuxtConfig({
     // '@nuxtjs/supabase',
     '@vueuse/nuxt',
     '@nuxt/ui',
+    '@nuxt/content',
     '@vueuse/motion/nuxt',
     ['@nuxtjs/google-fonts', {
       families: {
@@ -25,6 +26,9 @@ export default defineNuxtConfig({
       },
     }],
   ],
+  content: {
+    documentDriven: true
+  },
   runtimeConfig: {
     // add the openai api key to the runtime config
     public: {
