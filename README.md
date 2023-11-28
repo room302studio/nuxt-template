@@ -1,6 +1,4 @@
-# EJ Fox Nuxt 3 Starter
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/981b9e46-6878-4ddb-a716-2713c5f3e412/deploy-status)](https://app.netlify.com/sites/ejfox-nuxt-template/deploys)
+# Room 302 Nuxt 3 Starter
 
 ## Usage
 `npx room302-template`
@@ -22,33 +20,13 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 Make sure to install the dependencies:
 
 ```bash
-# yarn
+# yarn install
 yarn install
-```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# yarn
+# run the dev server
 yarn dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# yarn
-yarn preview
-```
+## Deployment
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
