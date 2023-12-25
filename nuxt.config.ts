@@ -29,6 +29,13 @@ export default defineNuxtConfig({
   content: {
     documentDriven: true
   },
+  supabase: {
+    redirectOptions: {
+      login: '/login',
+      callback: '/confirm',
+      exclude: [],
+    }
+  },
   runtimeConfig: {
     // add the openai api key to the runtime config
     public: {
