@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   ssr: false, // for netlify deploy
   devtools: { enabled: true },
   modules: [
-    // '@nuxtjs/supabase',
+    '@nuxtjs/supabase',
     '@vueuse/nuxt',
     '@nuxt/ui',
     '@nuxt/content',
