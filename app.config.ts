@@ -6,6 +6,9 @@ export default defineAppConfig({
         color: 'gray',
         variant: 'ghost'
       }
+    },
+    icons: {
+      dynamic: true
     }
   }
 })
