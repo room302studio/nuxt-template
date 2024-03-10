@@ -23,9 +23,11 @@
     "@nuxtjs/supabase": "^1.0.1",
     "@vueuse/motion": "^2.0.0-beta.25",
     "@vueuse/nuxt": "^9.13.0",
+    "axios": "^1.6.7",
     "d3": "^7.8.5",
     "eslint-config-prettier": "^9.0.0",
     "openai": "^4.27.0",
+    "splitpanes": "^3.1.5",
     "v-onboarding": "^2.5.1",
     "vue": "^3.3.8"
   }
