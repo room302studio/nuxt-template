@@ -3,7 +3,7 @@
     <Splitpanes class="min-h-screen">
       <Pane size="40" class="p-8"> Hello </Pane>
       <Pane size="40" class="p-8"> World </Pane>
-      <Pane size="20" class="p-8">
+      <Pane size="20" class="p-1">
         <pre class="text-xs w-full">{{ weatherData }}</pre>
       </Pane>
     </Splitpanes>
