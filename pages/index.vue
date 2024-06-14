@@ -23,12 +23,7 @@ const { data: weatherData } = await useFetch('/api/weather', {
   })
 });
 
-/*
-// Use the global state in this component
-const store = useAppStore()
-// Access the state variables and functions
-const { activeItem, itemList, setActiveItem, addItem, removeItem } = store
-*/
+
 </script>
 
 <style>
