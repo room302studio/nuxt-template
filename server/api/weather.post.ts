@@ -1,8 +1,8 @@
 export default defineEventHandler(async (event) => {
   const runtimeConfig = useRuntimeConfig();
   const apiKey = runtimeConfig.WEATHER_KEY;
-  const lat = 41.927059;
-  const lon = 73.99762;
+  const body = await readBody(event);
+  const { lat, lon } = body;
   const builtUrl = `https://api.pirateweather.net/forecast/${apiKey}/${lat}%2C${lon}`;
 
   const response = await fetch(builtUrl);

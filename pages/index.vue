@@ -1,8 +1,11 @@
 <template>
   <section class="p-4 text-4xl">
     <Splitpanes class="min-h-screen">
-      <Pane size="50" class="p-8"> Hello </Pane>
-      <Pane size="50" class="p-8"> World </Pane>
+      <Pane size="40" class="p-8"> Hello </Pane>
+      <Pane size="40" class="p-8"> World </Pane>
+      <Pane size="20" class="p-8">
+        <pre class="text-xs w-full">{{ weatherData }}</pre>
+      </Pane>
     </Splitpanes>
   </section>
 </template>
@@ -10,6 +13,16 @@
 <script setup>
 import { Splitpanes, Pane } from 'splitpanes'
 import 'splitpanes/dist/splitpanes.css'
+
+
+const { data: weatherData } = await useFetch('/api/weather', {
+  method: 'POST',
+  body: JSON.stringify({
+    lat: 41.927059,
+    lon: -74.2,
+  })
+});
+
 /*
 // Use the global state in this component
 const store = useAppStore()
