@@ -41,7 +41,6 @@ export default defineNuxtConfig({
   runtimeConfig: {
     // add the openai api key to the runtime config
     public: {
-      OPENAI_API_KEY: process.env.OPENAI_API_KEY,
       PRODUCTION: process.env.PRODUCTION
     }
   }
