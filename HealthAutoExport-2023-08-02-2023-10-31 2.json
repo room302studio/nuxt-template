@@ -1,0 +1,5484 @@
+{
+  "data" : {
+    "symptoms" : [
+
+    ],
+    "metrics" : [
+      {
+        "name" : "apple_stand_time",
+        "units" : "min",
+        "data" : [
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 42,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 62
+          },
+          {
+            "qty" : 57,
+            "date" : "2023-08-23 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 6,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 5,
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-27 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 2
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 2,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 15
+          },
+          {
+            "qty" : 8,
+            "date" : "2023-09-05 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 28
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 30
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 11,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 17
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 47,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 62,
+            "date" : "2023-09-12 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 13,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-17 00:00:00 -0400",
+            "qty" : 38
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 5
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 29
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 31
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 23,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 16,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 9,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-02 00:00:00 -0400",
+            "qty" : 24,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 31,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-10-13 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-31 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch",
+            "qty" : 14
+          }
+        ]
+      },
+      {
+        "data" : [
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "qty" : 16,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 40,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-22 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 41,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1,
+            "date" : "2023-08-25 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-26 00:00:00 -0400",
+            "qty" : 1
+          },
+          {
+            "date" : "2023-08-27 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1
+          },
+          {
+            "date" : "2023-08-28 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 3
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "qty" : 15,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 4,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-06 00:00:00 -0400"
+          },
+          {
+            "qty" : 21,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 2,
+            "date" : "2023-09-08 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-09-10 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 27
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 43
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 3,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-16 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-17 00:00:00 -0400",
+            "qty" : 12,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 14,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 24,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 16
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 14
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 2,
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-10-12 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          }
+        ],
+        "name" : "apple_exercise_time",
+        "units" : "min"
+      },
+      {
+        "name" : "basal_energy_burned",
+        "units" : "kcal",
+        "data" : [
+          {
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 1.6579320839378568,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-20 00:00:00 -0400",
+            "qty" : 1750.1754743074769
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "qty" : 1931.9158668317589,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 1848.4410850267752
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 1883.3820421018827
+          },
+          {
+            "qty" : 1749.4751372973349,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 1781.4925779799848
+          },
+          {
+            "date" : "2023-08-26 00:00:00 -0400",
+            "qty" : 1758.1235636358003,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-08-27 00:00:00 -0400",
+            "qty" : 1758.8402216766362,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1760.1807270750157,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-29 00:00:00 -0400",
+            "qty" : 13.068371983398666,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 800.4304084637522,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1848.2912391673901
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 1827.4609775505166,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 1951.7218049410103,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 1793.314967411859,
+            "date" : "2023-09-07 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 1816.6007072981245,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-09 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 878.77305348145615
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 1780.1219342620243
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1853.678283658948,
+            "date" : "2023-09-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 1863.5901059264838,
+            "date" : "2023-09-12 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1729.7065178384353,
+            "date" : "2023-09-13 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-14 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1163.414880749584
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1621.4626003424576,
+            "date" : "2023-09-15 00:00:00 -0400"
+          },
+          {
+            "qty" : 1607.6458825686229,
+            "date" : "2023-09-16 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 1883.215622836856,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 1795.6836806756744,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-18 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 1850.2375669666749,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 1865.9284035479109
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 719.35736231222029
+          },
+          {
+            "qty" : 627.60777425899926,
+            "date" : "2023-09-25 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 1815.2489949080937,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 1418.2482308329065,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 314.42143013825,
+            "date" : "2023-09-29 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 1823.6667696818749
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 1763.7031098541179
+          },
+          {
+            "qty" : 1878.0666903257611,
+            "date" : "2023-10-02 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 585.01327755010834,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 12.145722449891776,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-10-13 00:00:00 -0400"
+          },
+          {
+            "qty" : 446.47600000000006,
+            "date" : "2023-10-31 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|iPhone"
+          }
+        ]
+      },
+      {
+        "units" : "count",
+        "data" : [
+          {
+            "qty" : 8,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 6
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 6
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "qty" : 4,
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-28 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 4
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 13
+          },
+          {
+            "qty" : 4,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 4
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 7
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 8
+          },
+          {
+            "qty" : 5,
+            "date" : "2023-09-13 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-17 00:00:00 -0400",
+            "qty" : 8
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-09-18 00:00:00 -0400"
+          },
+          {
+            "qty" : 4,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 7
+          },
+          {
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 4
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 1
+          },
+          {
+            "qty" : 5,
+            "date" : "2023-09-30 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 1
+          },
+          {
+            "qty" : 7,
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 5
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-10-13 00:00:00 -0400"
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ],
+        "name" : "apple_stand_hour"
+      },
+      {
+        "units" : "count",
+        "name" : "flights_climbed",
+        "data" : [
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-04 00:00:00 -0400",
+            "qty" : 1
+          },
+          {
+            "date" : "2023-08-06 00:00:00 -0400",
+            "qty" : 5,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-07 00:00:00 -0400",
+            "qty" : 2,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 1,
+            "date" : "2023-08-09 00:00:00 -0400"
+          },
+          {
+            "qty" : 8,
+            "date" : "2023-08-15 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 13,
+            "date" : "2023-08-16 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-17 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-18 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 2
+          },
+          {
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 4,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-20 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 1
+          },
+          {
+            "qty" : 4,
+            "date" : "2023-08-22 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 4,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-24 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "qty" : 2,
+            "date" : "2023-08-25 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 4,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-29 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-30 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 6,
+            "date" : "2023-09-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 5,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-03 00:00:00 -0400",
+            "qty" : 2,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 2
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 2,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 3,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 4
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 3
+          },
+          {
+            "date" : "2023-09-09 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 2
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-09-10 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 3,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 2
+          },
+          {
+            "qty" : 2,
+            "date" : "2023-09-13 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-15 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 3,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 3,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 2
+          },
+          {
+            "qty" : 5,
+            "date" : "2023-09-22 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-23 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-24 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-09-27 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 5,
+            "date" : "2023-09-28 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-09-29 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 1
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 2
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "qty" : 2,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-10-03 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 1,
+            "date" : "2023-10-04 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 1,
+            "date" : "2023-10-05 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-10-06 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 2,
+            "date" : "2023-10-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-10-09 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 5,
+            "date" : "2023-10-10 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-11 00:00:00 -0400",
+            "qty" : 7,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-13 00:00:00 -0400",
+            "qty" : 3,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-15 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 3
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 1,
+            "date" : "2023-10-16 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-18 00:00:00 -0400",
+            "qty" : 3
+          },
+          {
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 4,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-21 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 1
+          },
+          {
+            "date" : "2023-10-22 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 8
+          },
+          {
+            "date" : "2023-10-25 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 5
+          },
+          {
+            "qty" : 5,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 2,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-27 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-29 00:00:00 -0400",
+            "qty" : 1,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-30 00:00:00 -0400",
+            "qty" : 9
+          },
+          {
+            "date" : "2023-10-31 00:00:00 -0400",
+            "qty" : 2,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          }
+        ]
+      },
+      {
+        "data" : [
+          {
+            "qty" : 57.704137990260186,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ],
+        "name" : "environmental_audio_exposure",
+        "units" : "dBASPL"
+      },
+      {
+        "name" : "vo2_max",
+        "data" : [
+          {
+            "qty" : 24.829999999999998,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 24.789999999999999
+          },
+          {
+            "qty" : 26.57,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "qty" : 26.98,
+            "date" : "2023-09-20 00:00:00 -0400"
+          }
+        ],
+        "units" : "ml\/(kg·min)"
+      },
+      {
+        "name" : "walking_running_distance",
+        "data" : [
+          {
+            "date" : "2023-08-02 00:00:00 -0400",
+            "qty" : 0.51025645381591755,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 0.41875660942510218,
+            "date" : "2023-08-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 0.52372807724441595
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 1.5488921473377326,
+            "date" : "2023-08-05 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 2.2071266487093233,
+            "date" : "2023-08-06 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-07 00:00:00 -0400",
+            "qty" : 1.2664374286129474
+          },
+          {
+            "date" : "2023-08-08 00:00:00 -0400",
+            "qty" : 0.46230910211146176,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-09 00:00:00 -0400",
+            "qty" : 0.59820152130999082
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-10 00:00:00 -0400",
+            "qty" : 0.37825081768236118
+          },
+          {
+            "qty" : 0.4764775182309805,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-11 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 0.29986527623181108,
+            "date" : "2023-08-12 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.36712360685549256,
+            "date" : "2023-08-14 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 2.7878385710357696,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 4.865214698624202,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-16 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-17 00:00:00 -0400",
+            "qty" : 1.3102598099598641
+          },
+          {
+            "qty" : 2.1310066508312335,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-18 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 2.0996439925774673
+          },
+          {
+            "qty" : 3.1914510076520286,
+            "date" : "2023-08-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1.6291784890792074,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.7093040815402758,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-22 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 2.8622242291494766,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 1.9405572556735275,
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.1790504893925635,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-25 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-26 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 0.98122161091467697
+          },
+          {
+            "qty" : 0.62945466786491933,
+            "date" : "2023-08-27 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 2.6523022691360874,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-29 00:00:00 -0400",
+            "qty" : 1.3189299322795256,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-08-30 00:00:00 -0400",
+            "qty" : 1.6243027277820221
+          },
+          {
+            "date" : "2023-08-31 00:00:00 -0400",
+            "qty" : 0.88038763917326635,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 2.4092776813507513,
+            "date" : "2023-09-01 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 1.0340747461659971
+          },
+          {
+            "date" : "2023-09-03 00:00:00 -0400",
+            "qty" : 0.84931271970865385,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 0.94492416075875996,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 0.87012629254901097,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 1.6452630881446146
+          },
+          {
+            "qty" : 2.8627084994455632,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 0.42494074400124399,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-09 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 0.86678912319966839
+          },
+          {
+            "qty" : 1.3415168637233681,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-10 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 1.9502952799484268,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 2.4762805324199229,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 1.1491847635001617
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 0.29176316633574378,
+            "date" : "2023-09-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-15 00:00:00 -0400",
+            "qty" : 1.058951947510743,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1.6846831996522837,
+            "date" : "2023-09-16 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 1.3196139093029988,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.52735048696658371,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-18 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.8492189716660861,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 1.4834223127124808
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 0.41559985233857716
+          },
+          {
+            "qty" : 1.6169667682024218,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.95988830552796733,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-23 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.1192775494083858,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-24 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.95817992742822755,
+            "date" : "2023-09-25 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 1.1540791252704068
+          },
+          {
+            "qty" : 2.0306550088862347,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-27 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-28 00:00:00 -0400",
+            "qty" : 3.1457086033651551,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-29 00:00:00 -0400",
+            "qty" : 0.35236079826477273
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 0.52081249653552908
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 1.3891533422145532,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 0.50549233107296887,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-03 00:00:00 -0400",
+            "qty" : 0.84128460371575986
+          },
+          {
+            "date" : "2023-10-04 00:00:00 -0400",
+            "qty" : 1.2546241741365161,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 1.0715153716131069,
+            "date" : "2023-10-05 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-06 00:00:00 -0400",
+            "qty" : 0.99603979645349583,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 0.63424682407332511,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.31777186206528207,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-08 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.2982500364076794,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-09 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.83757975434233167,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-10 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-11 00:00:00 -0400",
+            "qty" : 0.59605543414691176,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 0.88169127572518913
+          },
+          {
+            "date" : "2023-10-13 00:00:00 -0400",
+            "qty" : 1.0332829108677324,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-14 00:00:00 -0400",
+            "qty" : 0.12676593692834004
+          },
+          {
+            "date" : "2023-10-15 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 1.2759226849688556
+          },
+          {
+            "date" : "2023-10-16 00:00:00 -0400",
+            "qty" : 1.1456744058894957,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-17 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 0.61451746798695239
+          },
+          {
+            "date" : "2023-10-18 00:00:00 -0400",
+            "qty" : 1.0841390418914449,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 1.9364627543604851
+          },
+          {
+            "qty" : 0.34779259675032848,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-20 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.0594288110725809,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-22 00:00:00 -0400",
+            "qty" : 1.0752249504770226,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-23 00:00:00 -0400",
+            "qty" : 0.64359763978363316,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 2.0092048066237722,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-25 00:00:00 -0400",
+            "qty" : 1.6601117318980076
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-26 00:00:00 -0400",
+            "qty" : 1.8747650670417833
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-27 00:00:00 -0400",
+            "qty" : 0.96775922742910003
+          },
+          {
+            "qty" : 0.37401475289983627,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-28 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.4136517827573425,
+            "date" : "2023-10-29 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-30 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 2.9452468882085578
+          },
+          {
+            "date" : "2023-10-31 00:00:00 -0400",
+            "qty" : 2.9939692482554623,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          }
+        ],
+        "units" : "mi"
+      },
+      {
+        "data" : [
+          {
+            "qty" : 129,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "qty" : 132,
+            "date" : "2023-08-22 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 128
+          },
+          {
+            "qty" : 90,
+            "date" : "2023-08-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 119,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "qty" : 107.00000000000001,
+            "date" : "2023-09-06 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 113
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 122
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 97
+          },
+          {
+            "qty" : 112,
+            "date" : "2023-09-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 117.5,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 79.5
+          },
+          {
+            "qty" : 132.5,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 139,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 129
+          },
+          {
+            "qty" : 139.00000000000003,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 153.50000000000003,
+            "date" : "2023-09-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 85,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ],
+        "units" : "count\/min",
+        "name" : "walking_heart_rate_average"
+      },
+      {
+        "data" : [
+          {
+            "qty" : 67,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 66
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 64
+          },
+          {
+            "qty" : 69,
+            "date" : "2023-08-25 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-26 00:00:00 -0400",
+            "qty" : 51
+          },
+          {
+            "qty" : 61,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 56
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 68
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 76
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 60
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 62.000000000000007
+          },
+          {
+            "qty" : 63,
+            "date" : "2023-09-11 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 49
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 50
+          },
+          {
+            "qty" : 57,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 62.000000000000007
+          },
+          {
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 61
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 59
+          },
+          {
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 51
+          },
+          {
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 60
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 72
+          },
+          {
+            "qty" : 50,
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-02 00:00:00 -0400",
+            "qty" : 60
+          },
+          {
+            "qty" : 62.000000000000007,
+            "date" : "2023-10-12 00:00:00 -0400"
+          },
+          {
+            "qty" : 57,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ],
+        "name" : "resting_heart_rate",
+        "units" : "count\/min"
+      },
+      {
+        "name" : "step_count",
+        "units" : "count",
+        "data" : [
+          {
+            "qty" : 1413,
+            "date" : "2023-08-02 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-03 00:00:00 -0400",
+            "qty" : 1167.1899501885996
+          },
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 1452.8100498114004
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-05 00:00:00 -0400",
+            "qty" : 4107
+          },
+          {
+            "date" : "2023-08-06 00:00:00 -0400",
+            "qty" : 5897,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-07 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 3049
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 1220,
+            "date" : "2023-08-08 00:00:00 -0400"
+          },
+          {
+            "qty" : 1554,
+            "date" : "2023-08-09 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 1070,
+            "date" : "2023-08-10 00:00:00 -0400"
+          },
+          {
+            "qty" : 1296,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-11 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-12 00:00:00 -0400",
+            "qty" : 821
+          },
+          {
+            "qty" : 979,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 7486,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-16 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 11353
+          },
+          {
+            "qty" : 2889,
+            "date" : "2023-08-17 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "qty" : 5159,
+            "date" : "2023-08-18 00:00:00 -0400"
+          },
+          {
+            "qty" : 4841,
+            "date" : "2023-08-19 00:00:00 -0400",
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 6946.0394493114009,
+            "date" : "2023-08-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 3758.9605506885991
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 5939.8109685250984,
+            "date" : "2023-08-22 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 6285,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "qty" : 3890,
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 4584
+          },
+          {
+            "qty" : 2266,
+            "date" : "2023-08-26 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1608,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-28 00:00:00 -0400",
+            "qty" : 5662.7795117425558,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 2881.9644539575415,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-08-29 00:00:00 -0400"
+          },
+          {
+            "qty" : 3945,
+            "date" : "2023-08-30 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-08-31 00:00:00 -0400",
+            "qty" : 2341
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-01 00:00:00 -0400",
+            "qty" : 6493
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 2415,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1798,
+            "date" : "2023-09-03 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 2105,
+            "date" : "2023-09-04 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 1928,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 3603.1926993829802,
+            "date" : "2023-09-06 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 6112.1231767399495
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 977,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 2271,
+            "date" : "2023-09-09 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 3133
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 4265
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 5175.0098606094707,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 2511,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-14 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 798
+          },
+          {
+            "qty" : 2597,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-15 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-16 00:00:00 -0400",
+            "qty" : 4025
+          },
+          {
+            "qty" : 2864,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 1332,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 3970,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 3167,
+            "date" : "2023-09-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 1069,
+            "date" : "2023-09-21 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-22 00:00:00 -0400",
+            "qty" : 3867
+          },
+          {
+            "qty" : 2475,
+            "date" : "2023-09-23 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 2524,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-24 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "qty" : 2250,
+            "date" : "2023-09-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 2527,
+            "date" : "2023-09-26 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 4447.7850842781118,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-27 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-28 00:00:00 -0400",
+            "qty" : 7081
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-09-29 00:00:00 -0400",
+            "qty" : 930
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 1290,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 3420.6653245497555,
+            "date" : "2023-10-01 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-02 00:00:00 -0400",
+            "qty" : 1170
+          },
+          {
+            "qty" : 1940,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-04 00:00:00 -0400",
+            "qty" : 2916,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 2346,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-05 00:00:00 -0400"
+          },
+          {
+            "qty" : 2336,
+            "date" : "2023-10-06 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-07 00:00:00 -0400",
+            "qty" : 1691
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-08 00:00:00 -0400",
+            "qty" : 779.93984547157049
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-09 00:00:00 -0400",
+            "qty" : 2923.0601545284294
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-10 00:00:00 -0400",
+            "qty" : 1937
+          },
+          {
+            "qty" : 1547,
+            "date" : "2023-10-11 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 1930.2850571977315,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-13 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 2430.7149428022685
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 343,
+            "date" : "2023-10-14 00:00:00 -0400"
+          },
+          {
+            "qty" : 3162.6988318474505,
+            "date" : "2023-10-15 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-16 00:00:00 -0400",
+            "qty" : 2736.3011681525495,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 1584,
+            "date" : "2023-10-17 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-18 00:00:00 -0400",
+            "qty" : 2353
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 4341
+          },
+          {
+            "date" : "2023-10-20 00:00:00 -0400",
+            "qty" : 906,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 2363,
+            "date" : "2023-10-21 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 2328,
+            "date" : "2023-10-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 1770,
+            "date" : "2023-10-23 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 4822,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-25 00:00:00 -0400",
+            "qty" : 3836,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "qty" : 4401,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 2353,
+            "date" : "2023-10-27 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "date" : "2023-10-28 00:00:00 -0400",
+            "qty" : 941,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "date" : "2023-10-29 00:00:00 -0400",
+            "qty" : 3505
+          },
+          {
+            "date" : "2023-10-30 00:00:00 -0400",
+            "qty" : 6586,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ Fox’s iPhone|iPhone|EJ Fox’s iPhone",
+            "qty" : 6540,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ]
+      },
+      {
+        "name" : "respiratory_rate",
+        "data" : [
+          {
+            "qty" : 18.4375,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 18.662790697674417
+          },
+          {
+            "date" : "2023-08-27 00:00:00 -0400",
+            "qty" : 23.5
+          },
+          {
+            "date" : "2023-08-28 00:00:00 -0400",
+            "qty" : 17.340425531914892
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 23.916666666666668
+          },
+          {
+            "qty" : 18.875,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 21.600000000000001
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 16.563829787234042
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 19.238095238095237
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 18.387499999999999
+          },
+          {
+            "qty" : 22.5,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 19.423076923076923
+          },
+          {
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 18.347826086956523
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 17.857142857142858
+          },
+          {
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 18.608695652173914
+          },
+          {
+            "qty" : 19,
+            "date" : "2023-10-13 00:00:00 -0400"
+          }
+        ],
+        "units" : "count\/min"
+      },
+      {
+        "units" : "kcal",
+        "name" : "active_energy",
+        "data" : [
+          {
+            "date" : "2023-08-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 0.9740012137423868
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 296.68499878625727
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 280.65299999999991,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 315.4070000000001
+          },
+          {
+            "date" : "2023-08-24 00:00:00 -0400",
+            "qty" : 2.2680000000000002,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 48.588000000000001,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "qty" : 21.373999999999992,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 14.26,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-08-28 00:00:00 -0400",
+            "qty" : 29.887000000000011
+          },
+          {
+            "date" : "2023-08-29 00:00:00 -0400",
+            "qty" : 0.042000000000000003,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-04 00:00:00 -0400",
+            "qty" : 171.10499999999999
+          },
+          {
+            "qty" : 86.324000000000055,
+            "date" : "2023-09-05 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 274.74499999999983,
+            "date" : "2023-09-06 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 143.83699999999993,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 86.045000000000044,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-09 00:00:00 -0400",
+            "qty" : 0.16800000000000001
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 53.784999999999989,
+            "date" : "2023-09-10 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 222.22200000000001
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 287.84600000000017,
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 193.36600000000021,
+            "date" : "2023-09-13 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-15 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 0.14199999999999999
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 2.2690000000000001,
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 226.53753584459449,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 80.374464155405391
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 200.71199999999999
+          },
+          {
+            "qty" : 231.43885280248654,
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-20 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 19.204147197513372
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 146.512,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 62.501999999999995,
+            "date" : "2023-09-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 93.058886735930628,
+            "date" : "2023-09-30 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 29.019113264069386,
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-02 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch",
+            "qty" : 177.52799999999993
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "qty" : 159.28851908815261,
+            "date" : "2023-10-12 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch",
+            "date" : "2023-10-13 00:00:00 -0400",
+            "qty" : 6.2124809118473738
+          },
+          {
+            "qty" : 4.8387733731697793,
+            "source" : "EJ’s Apple Watch|Intervals Pro",
+            "date" : "2023-10-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 119.667,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|iPhone|Intervals Pro",
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ]
+      },
+      {
+        "data" : [
+          {
+            "qty" : 1.9405422333571938,
+            "date" : "2023-08-02 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-03 00:00:00 -0400",
+            "qty" : 1.5956812216654737
+          },
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "qty" : 1.7313886900501072
+          },
+          {
+            "date" : "2023-08-05 00:00:00 -0400",
+            "qty" : 1.8941258052970653
+          },
+          {
+            "qty" : 2.2605483973594209,
+            "date" : "2023-08-06 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-07 00:00:00 -0400",
+            "qty" : 2.5426509186351707
+          },
+          {
+            "date" : "2023-08-08 00:00:00 -0400",
+            "qty" : 2.3152290622763063
+          },
+          {
+            "qty" : 2.1446626700071585,
+            "date" : "2023-08-09 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.5826324266284897,
+            "date" : "2023-08-10 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-11 00:00:00 -0400",
+            "qty" : 1.6683816511572418
+          },
+          {
+            "date" : "2023-08-12 00:00:00 -0400",
+            "qty" : 2.0747584108804578
+          },
+          {
+            "date" : "2023-08-14 00:00:00 -0400",
+            "qty" : 2.2656969015236732
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 2.0132426628489624
+          },
+          {
+            "date" : "2023-08-16 00:00:00 -0400",
+            "qty" : 2.3259477153424002
+          },
+          {
+            "date" : "2023-08-17 00:00:00 -0400",
+            "qty" : 2.8017627057981387
+          },
+          {
+            "qty" : 1.970368050584586,
+            "date" : "2023-08-18 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 1.9530174549859594
+          },
+          {
+            "qty" : 2.3965722001691931,
+            "date" : "2023-08-20 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "qty" : 2.0699117155810072
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 2.8593309191965979
+          },
+          {
+            "qty" : 2.3890479599141021,
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.6070475694670403,
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 2.7360527022190406
+          },
+          {
+            "qty" : 2.1634369567440435,
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-27 00:00:00 -0400",
+            "qty" : 1.6217788117394416
+          },
+          {
+            "qty" : 3.0019685039370079,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.3532569792412317,
+            "date" : "2023-08-29 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.2089745884037222,
+            "date" : "2023-08-30 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-31 00:00:00 -0400",
+            "qty" : 2.0013123359580054
+          },
+          {
+            "date" : "2023-09-01 00:00:00 -0400",
+            "qty" : 2.0164963883646774
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 1.9774516821760917
+          },
+          {
+            "date" : "2023-09-03 00:00:00 -0400",
+            "qty" : 2.1884693390598904
+          },
+          {
+            "qty" : 2.2956558697208305,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 2.3012482104509662
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 2.1754205440229062
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 2.5632204477575096
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 1.7671796707229779
+          },
+          {
+            "qty" : 1.7380994989262706,
+            "date" : "2023-09-09 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.4662222619899787,
+            "date" : "2023-09-10 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.6331935780754678,
+            "date" : "2023-09-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.6367886542591261,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 2.3065298655849835
+          },
+          {
+            "qty" : 1.9886363636363638,
+            "date" : "2023-09-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-15 00:00:00 -0400",
+            "qty" : 2.3014126910606763
+          },
+          {
+            "qty" : 2.0627748236015955,
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.0635737294201864,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 1.7863534103691581
+          },
+          {
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 2.0815934939950687
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 2.4382605583392984
+          },
+          {
+            "qty" : 2.0169708900023866,
+            "date" : "2023-09-21 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.5665115724170846,
+            "date" : "2023-09-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.6201810001022601,
+            "date" : "2023-09-23 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-24 00:00:00 -0400",
+            "qty" : 1.9306480920654148
+          },
+          {
+            "qty" : 2.1921975662133142,
+            "date" : "2023-09-25 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 2.6587585642703755
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 2.2028496437945257
+          },
+          {
+            "date" : "2023-09-28 00:00:00 -0400",
+            "qty" : 2.1660999761393462
+          },
+          {
+            "date" : "2023-09-29 00:00:00 -0400",
+            "qty" : 1.7224409448818896
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 1.5378937007874014
+          },
+          {
+            "qty" : 2.162371748985922,
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-02 00:00:00 -0400",
+            "qty" : 1.8007337151037939
+          },
+          {
+            "qty" : 2.1698282032927705,
+            "date" : "2023-10-03 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.510339616638829,
+            "date" : "2023-10-04 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-05 00:00:00 -0400",
+            "qty" : 2.5780690765926986
+          },
+          {
+            "date" : "2023-10-06 00:00:00 -0400",
+            "qty" : 2.3711524695776665
+          },
+          {
+            "qty" : 1.9707408732999283,
+            "date" : "2023-10-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 1.3869005010737296,
+            "date" : "2023-10-08 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.2089745884037222,
+            "date" : "2023-10-09 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-10 00:00:00 -0400",
+            "qty" : 2.4606299212598421
+          },
+          {
+            "date" : "2023-10-11 00:00:00 -0400",
+            "qty" : 1.9054630051408865
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 1.6393547397484407
+          },
+          {
+            "date" : "2023-10-13 00:00:00 -0400",
+            "qty" : 2.0665849898133364
+          },
+          {
+            "qty" : 1.6851586733476498,
+            "date" : "2023-10-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-15 00:00:00 -0400",
+            "qty" : 2.2403777325037169
+          },
+          {
+            "date" : "2023-10-16 00:00:00 -0400",
+            "qty" : 2.1971685357512127
+          },
+          {
+            "qty" : 1.6620436649964208,
+            "date" : "2023-10-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-18 00:00:00 -0400",
+            "qty" : 2.1506544636465899
+          },
+          {
+            "qty" : 2.460629921259843,
+            "date" : "2023-10-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-20 00:00:00 -0400",
+            "qty" : 1.4540085898353616
+          },
+          {
+            "qty" : 2.1139047959914099,
+            "date" : "2023-10-21 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.1230558990043602,
+            "date" : "2023-10-22 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-23 00:00:00 -0400",
+            "qty" : 1.5360295872106897
+          },
+          {
+            "qty" : 2.1688114140691095,
+            "date" : "2023-10-24 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-25 00:00:00 -0400",
+            "qty" : 2.201923376178768
+          },
+          {
+            "date" : "2023-10-26 00:00:00 -0400",
+            "qty" : 2.3435197271464059
+          },
+          {
+            "qty" : 1.8223574325936531,
+            "date" : "2023-10-27 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-28 00:00:00 -0400",
+            "qty" : 1.7168486041517537
+          },
+          {
+            "date" : "2023-10-29 00:00:00 -0400",
+            "qty" : 1.9031165684708991
+          },
+          {
+            "qty" : 2.4457170126461469,
+            "date" : "2023-10-30 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-31 00:00:00 -0400",
+            "qty" : 2.3379373549380706
+          }
+        ],
+        "name" : "walking_speed",
+        "units" : "mi\/hr"
+      },
+      {
+        "name" : "handwashing",
+        "units" : "s",
+        "data" : [
+          {
+            "qty" : 6,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-08-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 7,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 5
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 15.25
+          }
+        ]
+      },
+      {
+        "units" : "min",
+        "data" : [
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "qty" : 2.5006481329600017
+          },
+          {
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 0.15367359916369119
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "qty" : 31.399847785631813
+          },
+          {
+            "qty" : 7.0240735669930778,
+            "date" : "2023-08-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.6318148652712505,
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-24 00:00:00 -0400",
+            "qty" : 1.5663552323977152
+          },
+          {
+            "qty" : 1.6845301171143849,
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 3.541049599647522,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 6.1246322989463806
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 3.9140626331170401
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 0.032835700114568073
+          },
+          {
+            "qty" : 3.7345890661080676,
+            "date" : "2023-09-20 00:00:00 -0400"
+          },
+          {
+            "qty" : 3.4296170671780892,
+            "date" : "2023-09-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.16736138264338177,
+            "date" : "2023-10-03 00:00:00 -0400"
+          },
+          {
+            "qty" : 3.1184134006500246,
+            "date" : "2023-10-14 00:00:00 -0400"
+          },
+          {
+            "qty" : 13.49026873310407,
+            "date" : "2023-10-15 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.084229232867558804,
+            "date" : "2023-10-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 2.7449814697106683,
+            "date" : "2023-10-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-23 00:00:00 -0400",
+            "qty" : 3.1183183173338573
+          },
+          {
+            "qty" : 2.2308207670847575,
+            "date" : "2023-10-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-27 00:00:00 -0400",
+            "qty" : 0.92822896838188174
+          },
+          {
+            "qty" : 2.1055555164813997,
+            "date" : "2023-10-28 00:00:00 -0400"
+          }
+        ],
+        "name" : "mindful_minutes"
+      },
+      {
+        "name" : "walking_asymmetry_percentage",
+        "units" : "%",
+        "data" : [
+          {
+            "qty" : 5.8888888888888893,
+            "date" : "2023-08-05 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-06 00:00:00 -0400",
+            "qty" : 4.666666666666667
+          },
+          {
+            "date" : "2023-08-07 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-08-09 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 1.7500000000000002,
+            "date" : "2023-08-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 2.0833333333333335
+          },
+          {
+            "qty" : 1.1052631578947369,
+            "date" : "2023-08-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.16666666666666666,
+            "date" : "2023-08-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-18 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 2.4444444444444446,
+            "date" : "2023-08-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-20 00:00:00 -0400",
+            "qty" : 0.35714285714285715
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 0.076923076923076927
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 0.15384615384615385
+          },
+          {
+            "date" : "2023-08-24 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-28 00:00:00 -0400",
+            "qty" : 0.16666666666666666
+          },
+          {
+            "date" : "2023-08-29 00:00:00 -0400",
+            "qty" : 0.40000000000000002
+          },
+          {
+            "date" : "2023-08-30 00:00:00 -0400",
+            "qty" : 1.7500000000000002
+          },
+          {
+            "qty" : 3,
+            "date" : "2023-08-31 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-01 00:00:00 -0400",
+            "qty" : 3.125
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 0.66666666666666663
+          },
+          {
+            "qty" : 1,
+            "date" : "2023-09-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 0.33333333333333331,
+            "date" : "2023-09-05 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 1.6000000000000001
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 1.8666666666666667
+          },
+          {
+            "qty" : 9,
+            "date" : "2023-09-09 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 0.44444444444444442
+          },
+          {
+            "qty" : 0.27272727272727271,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 3.3999999999999999
+          },
+          {
+            "qty" : 9,
+            "date" : "2023-09-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-15 00:00:00 -0400",
+            "qty" : 3.8571428571428572
+          },
+          {
+            "qty" : 0.80000000000000004,
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 0.16666666666666666
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 6
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-09-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-09-24 00:00:00 -0400"
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-09-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 0.25,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 5.9333333333333336,
+            "date" : "2023-09-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-29 00:00:00 -0400",
+            "qty" : 17
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 1.7500000000000002
+          },
+          {
+            "date" : "2023-10-03 00:00:00 -0400",
+            "qty" : 0.25
+          },
+          {
+            "date" : "2023-10-04 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-10-05 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-10-06 00:00:00 -0400"
+          },
+          {
+            "qty" : 7.666666666666667,
+            "date" : "2023-10-07 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-09 00:00:00 -0400",
+            "qty" : 0.40000000000000002
+          },
+          {
+            "date" : "2023-10-10 00:00:00 -0400",
+            "qty" : 0.16666666666666666
+          },
+          {
+            "date" : "2023-10-11 00:00:00 -0400",
+            "qty" : 21
+          },
+          {
+            "qty" : 0.33333333333333331,
+            "date" : "2023-10-13 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-15 00:00:00 -0400",
+            "qty" : 1.25
+          },
+          {
+            "date" : "2023-10-16 00:00:00 -0400",
+            "qty" : 3.3333333333333335
+          },
+          {
+            "qty" : 0.33333333333333331,
+            "date" : "2023-10-18 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-10-21 00:00:00 -0400",
+            "qty" : 0.33333333333333331
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-10-22 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "date" : "2023-10-25 00:00:00 -0400",
+            "qty" : 0
+          },
+          {
+            "qty" : 1.625,
+            "date" : "2023-10-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 0,
+            "date" : "2023-10-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 8.1999999999999993,
+            "date" : "2023-10-29 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-30 00:00:00 -0400",
+            "qty" : 0.20000000000000001
+          },
+          {
+            "date" : "2023-10-31 00:00:00 -0400",
+            "qty" : 1.04
+          }
+        ]
+      },
+      {
+        "name" : "heart_rate_variability",
+        "data" : [
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "qty" : 97.020617634876146
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 63.178550301162218
+          },
+          {
+            "qty" : 70.456824244571308,
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 52.921532475017315
+          },
+          {
+            "date" : "2023-08-26 00:00:00 -0400",
+            "qty" : 82.669387425053827
+          },
+          {
+            "qty" : 37.191110050072517,
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 82.989593298529684,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "qty" : 123.26309775238012
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 90.013505646573691
+          },
+          {
+            "qty" : 69.158113114669518,
+            "date" : "2023-09-06 00:00:00 -0400"
+          },
+          {
+            "qty" : 64.342851765040734,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-08 00:00:00 -0400",
+            "qty" : 110.64776646779799
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 62.093933930394954
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 94.7537365168875
+          },
+          {
+            "date" : "2023-09-12 00:00:00 -0400",
+            "qty" : 110.44783351509385
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 117.10789771511509
+          },
+          {
+            "qty" : 65.0996502929396,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 64.400664785594046
+          },
+          {
+            "qty" : 112.22576508319084,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "qty" : 82.468727625495816,
+            "date" : "2023-09-20 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 68.50150375906955
+          },
+          {
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 52.129013890133301
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 41.195750847554933
+          },
+          {
+            "qty" : 100.59033420165851,
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "qty" : 41.17305902288598,
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 75.400799739787487
+          },
+          {
+            "qty" : 92.346101324113363,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ],
+        "units" : "ms"
+      },
+      {
+        "data" : [
+          {
+            "qty" : 3,
+            "date" : "2023-09-11 00:00:00 -0400"
+          }
+        ],
+        "name" : "low_heart_rate_notifications",
+        "units" : "count"
+      },
+      {
+        "units" : "dBASPL",
+        "data" : [
+          {
+            "date" : "2023-08-02 00:00:00 -0400",
+            "qty" : 52.875644350256415
+          },
+          {
+            "date" : "2023-08-03 00:00:00 -0400",
+            "qty" : 53.188451020352758
+          },
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "qty" : 63.640311128887461
+          },
+          {
+            "qty" : 57.323095888374084,
+            "date" : "2023-08-05 00:00:00 -0400"
+          },
+          {
+            "qty" : 59.982742815981446,
+            "date" : "2023-08-06 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-07 00:00:00 -0400",
+            "qty" : 58.626685458999908
+          },
+          {
+            "date" : "2023-08-08 00:00:00 -0400",
+            "qty" : 53.233683585129491
+          },
+          {
+            "qty" : 51.723135853090987,
+            "date" : "2023-08-09 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-10 00:00:00 -0400",
+            "qty" : 62.615473225415208
+          },
+          {
+            "qty" : 64.589660082423322,
+            "date" : "2023-08-11 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-12 00:00:00 -0400",
+            "qty" : 71.612113629963929
+          },
+          {
+            "date" : "2023-08-14 00:00:00 -0400",
+            "qty" : 45.14071767803329
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 58.169210070848173
+          },
+          {
+            "date" : "2023-08-16 00:00:00 -0400",
+            "qty" : 59.811781938262619
+          },
+          {
+            "qty" : 65.651312524769551,
+            "date" : "2023-08-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 64.017179071759116,
+            "date" : "2023-08-18 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 53.061136387769636
+          },
+          {
+            "date" : "2023-08-20 00:00:00 -0400",
+            "qty" : 59.642000464695862
+          },
+          {
+            "qty" : 60.396467853812879,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "qty" : 58.338828339807066,
+            "date" : "2023-08-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 67.707541917808101,
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "qty" : 56.364520224938602,
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 69.703545983680129
+          },
+          {
+            "qty" : 70.503523293917866,
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 59.196984734701196,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "qty" : 54.389196173790666,
+            "date" : "2023-08-29 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-30 00:00:00 -0400",
+            "qty" : 57.859656947657342
+          },
+          {
+            "date" : "2023-08-31 00:00:00 -0400",
+            "qty" : 33.149478467461051
+          },
+          {
+            "qty" : 61.150557780195534,
+            "date" : "2023-09-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 60.917451442493928
+          },
+          {
+            "date" : "2023-09-03 00:00:00 -0400",
+            "qty" : 66.917320043780904
+          },
+          {
+            "qty" : 66.207693558095173,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "qty" : 62.737216624514872,
+            "date" : "2023-09-05 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 66.527308981599134
+          },
+          {
+            "qty" : 47.791479358577831,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 54.098029759762092,
+            "date" : "2023-09-08 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 70.828018898336239
+          },
+          {
+            "qty" : 58.564423507430504,
+            "date" : "2023-09-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 58.787572305571366,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "qty" : 65.693796489174161,
+            "date" : "2023-09-13 00:00:00 -0400"
+          },
+          {
+            "qty" : 56.947496973204508,
+            "date" : "2023-09-14 00:00:00 -0400"
+          },
+          {
+            "qty" : 40.364031819263786,
+            "date" : "2023-09-15 00:00:00 -0400"
+          },
+          {
+            "qty" : 56.857199353349912,
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-17 00:00:00 -0400",
+            "qty" : 47.782998054483336
+          },
+          {
+            "qty" : 61.82272946371522,
+            "date" : "2023-09-18 00:00:00 -0400"
+          },
+          {
+            "qty" : 59.61922958178473,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-20 00:00:00 -0400",
+            "qty" : 65.501584725686911
+          },
+          {
+            "date" : "2023-09-21 00:00:00 -0400",
+            "qty" : 64.694381359099083
+          },
+          {
+            "date" : "2023-09-22 00:00:00 -0400",
+            "qty" : 54.357482081231346
+          },
+          {
+            "qty" : 68.398585828019847,
+            "date" : "2023-09-23 00:00:00 -0400"
+          },
+          {
+            "qty" : 71.304523214386876,
+            "date" : "2023-09-24 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-25 00:00:00 -0400",
+            "qty" : 60.473684270608622
+          },
+          {
+            "qty" : 56.12079934912915,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 67.674744760034926
+          },
+          {
+            "date" : "2023-09-28 00:00:00 -0400",
+            "qty" : 81.599652485001556
+          },
+          {
+            "date" : "2023-09-29 00:00:00 -0400",
+            "qty" : 58.940087302349447
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 64.183276970034939
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 61.996265345623002
+          },
+          {
+            "qty" : 63.006580055570765,
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-03 00:00:00 -0400",
+            "qty" : 62.596497847259826
+          },
+          {
+            "date" : "2023-10-04 00:00:00 -0400",
+            "qty" : 55.535480561092243
+          },
+          {
+            "qty" : 68.00948378672588,
+            "date" : "2023-10-05 00:00:00 -0400"
+          },
+          {
+            "qty" : 63.759724540300247,
+            "date" : "2023-10-06 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-07 00:00:00 -0400",
+            "qty" : 64.371339157731839
+          },
+          {
+            "qty" : 64.724503345145962,
+            "date" : "2023-10-08 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-09 00:00:00 -0400",
+            "qty" : 66.422771901160658
+          },
+          {
+            "qty" : 85.139978223102375,
+            "date" : "2023-10-10 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-11 00:00:00 -0400",
+            "qty" : 69.152721981442298
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 60.601454695751954
+          },
+          {
+            "qty" : 60.590361701813201,
+            "date" : "2023-10-13 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-14 00:00:00 -0400",
+            "qty" : 57.337297755414504
+          },
+          {
+            "qty" : 62.47418260973334,
+            "date" : "2023-10-15 00:00:00 -0400"
+          },
+          {
+            "qty" : 65.18950864863767,
+            "date" : "2023-10-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 68.205703433848555,
+            "date" : "2023-10-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 65.638429355352912,
+            "date" : "2023-10-18 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 58.719701065058757
+          },
+          {
+            "date" : "2023-10-20 00:00:00 -0400",
+            "qty" : 62.942995241652937
+          },
+          {
+            "qty" : 57.209404805102224,
+            "date" : "2023-10-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-22 00:00:00 -0400",
+            "qty" : 59.637756926803085
+          },
+          {
+            "date" : "2023-10-23 00:00:00 -0400",
+            "qty" : 57.470108027506413
+          },
+          {
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 62.376686213271142
+          },
+          {
+            "qty" : 64.350926839925137,
+            "date" : "2023-10-25 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-26 00:00:00 -0400",
+            "qty" : 57.968024845980494
+          },
+          {
+            "qty" : 71.496293959615372,
+            "date" : "2023-10-27 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-28 00:00:00 -0400",
+            "qty" : 66.930887895744391
+          },
+          {
+            "date" : "2023-10-29 00:00:00 -0400",
+            "qty" : 62.701893091003008
+          },
+          {
+            "date" : "2023-10-30 00:00:00 -0400",
+            "qty" : 58.95393576809014
+          },
+          {
+            "date" : "2023-10-31 00:00:00 -0400",
+            "qty" : 61.552290278219189
+          }
+        ],
+        "name" : "headphone_audio_exposure"
+      },
+      {
+        "data" : [
+          {
+            "deep" : 0,
+            "sleepStart" : "2023-08-02 00:05:02 -0400",
+            "inBedStart" : "2023-08-02 00:05:02 -0400",
+            "awake" : 0,
+            "inBedEnd" : "2023-08-02 08:00:16 -0400",
+            "asleep" : 0,
+            "sleepEnd" : "2023-08-02 08:00:16 -0400",
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "core" : 0,
+            "date" : "2023-08-02 00:05:02 -0400",
+            "inBed" : 7.9205596691701148
+          },
+          {
+            "awake" : 0,
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "deep" : 0,
+            "sleepStart" : "2023-08-02 22:59:09 -0400",
+            "asleep" : 0,
+            "sleepEnd" : "2023-08-03 08:00:20 -0400",
+            "inBedStart" : "2023-08-02 22:59:09 -0400",
+            "inBedEnd" : "2023-08-03 08:00:20 -0400",
+            "core" : 0,
+            "inBed" : 7.5468176088730488,
+            "date" : "2023-08-03 06:59:29 -0400"
+          },
+          {
+            "asleep" : 0,
+            "core" : 0,
+            "rem" : 0,
+            "sleepStart" : "2023-08-03 22:40:00 -0400",
+            "deep" : 0,
+            "awake" : 0,
+            "inBed" : 9.2472362116641467,
+            "date" : "2023-08-04 07:54:34 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "sleepEnd" : "2023-08-04 08:00:14 -0400",
+            "inBedEnd" : "2023-08-04 08:00:14 -0400",
+            "inBedStart" : "2023-08-03 22:40:00 -0400"
+          },
+          {
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "rem" : 0,
+            "deep" : 0,
+            "inBed" : 4.576944444444444,
+            "sleepStart" : "2023-08-06 23:34:02 -0400",
+            "sleepEnd" : "2023-08-07 04:08:39 -0400",
+            "core" : 0,
+            "asleep" : 0,
+            "date" : "2023-08-06 23:34:02 -0400",
+            "inBedEnd" : "2023-08-07 04:08:39 -0400",
+            "inBedStart" : "2023-08-06 23:34:02 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-08 00:02:16 -0400",
+            "date" : "2023-08-08 00:02:16 -0400",
+            "inBed" : 8.1274066383308838,
+            "inBedEnd" : "2023-08-08 08:09:54 -0400",
+            "sleepEnd" : "2023-08-08 08:09:54 -0400",
+            "inBedStart" : "2023-08-08 00:02:16 -0400",
+            "deep" : 0,
+            "awake" : 0,
+            "asleep" : 0,
+            "core" : 0,
+            "rem" : 0
+          },
+          {
+            "inBed" : 9.3131450566649434,
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-08 22:40:00 -0400",
+            "core" : 0,
+            "asleep" : 0,
+            "awake" : 0,
+            "inBedStart" : "2023-08-08 22:40:00 -0400",
+            "date" : "2023-08-09 03:29:55 -0400",
+            "sleepEnd" : "2023-08-09 08:00:34 -0400",
+            "inBedEnd" : "2023-08-09 08:00:34 -0400",
+            "deep" : 0
+          },
+          {
+            "sleepStart" : "2023-08-09 22:40:00 -0400",
+            "inBedStart" : "2023-08-09 22:40:00 -0400",
+            "inBedEnd" : "2023-08-10 08:00:15 -0400",
+            "rem" : 0,
+            "deep" : 0,
+            "date" : "2023-08-10 07:07:23 -0400",
+            "awake" : 0,
+            "sleepEnd" : "2023-08-10 08:00:15 -0400",
+            "core" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "asleep" : 0,
+            "inBed" : 7.7512645127707067
+          },
+          {
+            "core" : 0,
+            "inBed" : 7.9888888888888889,
+            "awake" : 0,
+            "sleepStart" : "2023-08-10 23:22:42 -0400",
+            "asleep" : 0,
+            "sleepEnd" : "2023-08-11 07:22:02 -0400",
+            "rem" : 0,
+            "deep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "inBedStart" : "2023-08-10 23:22:42 -0400",
+            "inBedEnd" : "2023-08-11 07:22:02 -0400",
+            "date" : "2023-08-10 23:22:42 -0400"
+          },
+          {
+            "inBed" : 11.579122781124379,
+            "sleepStart" : "2023-08-13 22:40:00 -0400",
+            "inBedStart" : "2023-08-13 22:40:00 -0400",
+            "awake" : 0,
+            "date" : "2023-08-14 06:35:44 -0400",
+            "asleep" : 0,
+            "rem" : 0,
+            "deep" : 0,
+            "core" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepEnd" : "2023-08-14 10:17:57 -0400",
+            "inBedEnd" : "2023-08-14 10:17:57 -0400"
+          },
+          {
+            "sleepStart" : "2023-08-14 22:40:00 -0400",
+            "date" : "2023-08-15 07:54:01 -0400",
+            "asleep" : 0,
+            "inBed" : 9.1587720550100009,
+            "rem" : 0,
+            "inBedStart" : "2023-08-14 22:40:00 -0400",
+            "core" : 0,
+            "inBedEnd" : "2023-08-15 08:00:11 -0400",
+            "sleepEnd" : "2023-08-15 08:00:11 -0400",
+            "deep" : 0,
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "asleep" : 0,
+            "rem" : 0,
+            "sleepEnd" : "2023-08-16 07:58:13 -0400",
+            "sleepStart" : "2023-08-15 22:40:00 -0400",
+            "inBedEnd" : "2023-08-16 07:58:13 -0400",
+            "awake" : 0,
+            "inBed" : 9.3013888888888889,
+            "date" : "2023-08-16 07:55:53 -0400",
+            "inBedStart" : "2023-08-15 22:40:00 -0400",
+            "deep" : 0,
+            "core" : 0,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "deep" : 0,
+            "core" : 0,
+            "sleepEnd" : "2023-08-17 08:00:25 -0400",
+            "awake" : 0,
+            "inBedStart" : "2023-08-16 23:56:54 -0400",
+            "inBedEnd" : "2023-08-17 08:00:25 -0400",
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-08-17 00:53:48 -0400",
+            "asleep" : 0,
+            "sleepStart" : "2023-08-16 23:56:54 -0400",
+            "inBed" : 8.0587150885992589
+          },
+          {
+            "rem" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "inBedEnd" : "2023-08-18 07:25:31 -0400",
+            "inBed" : 7.9183333333333339,
+            "core" : 0,
+            "sleepStart" : "2023-08-17 22:59:42 -0400",
+            "date" : "2023-08-18 07:25:13 -0400",
+            "sleepEnd" : "2023-08-18 07:25:31 -0400",
+            "asleep" : 0,
+            "inBedStart" : "2023-08-17 22:59:42 -0400"
+          },
+          {
+            "sleepStart" : "2023-08-21 00:36:17 -0400",
+            "deep" : 1.1500000000000001,
+            "inBedStart" : "2023-08-21 00:01:24 -0400",
+            "asleep" : 0,
+            "sleepEnd" : "2023-08-21 07:59:47 -0400",
+            "inBedEnd" : "2023-08-21 08:00:17 -0400",
+            "awake" : 0.17499999999999999,
+            "date" : "2023-08-21 00:34:19 -0400",
+            "core" : 4.208333333333333,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "inBed" : 7.614107677506075,
+            "rem" : 1.8583333333333332
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-22 00:10:14 -0400",
+            "inBedEnd" : "2023-08-22 08:00:06 -0400",
+            "rem" : 1.7416666666666669,
+            "inBed" : 7.9997068202826709,
+            "asleep" : 0,
+            "deep" : 0.78333333333333344,
+            "core" : 4.1583333333333332,
+            "sleepEnd" : "2023-08-22 06:57:44 -0400",
+            "awake" : 0.058333333333333334,
+            "date" : "2023-08-22 07:56:03 -0400",
+            "inBedStart" : "2023-08-21 23:38:01 -0400"
+          },
+          {
+            "sleepStart" : "2023-08-22 23:30:57 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "deep" : 0,
+            "inBedEnd" : "2023-08-23 08:03:25 -0400",
+            "rem" : 0,
+            "inBed" : 8.2598019083340954,
+            "sleepEnd" : "2023-08-23 08:03:25 -0400",
+            "inBedStart" : "2023-08-22 23:30:57 -0400",
+            "core" : 0,
+            "date" : "2023-08-23 07:12:25 -0400",
+            "asleep" : 0,
+            "awake" : 0
+          },
+          {
+            "asleep" : 0,
+            "sleepEnd" : "2023-08-24 07:50:22 -0400",
+            "inBed" : 8.4223677194449635,
+            "inBedEnd" : "2023-08-24 07:50:22 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-23 23:12:39 -0400",
+            "date" : "2023-08-23 23:52:44 -0400",
+            "awake" : 0,
+            "inBedStart" : "2023-08-23 23:12:39 -0400",
+            "deep" : 0,
+            "core" : 0,
+            "rem" : 0
+          },
+          {
+            "asleep" : 0,
+            "core" : 0,
+            "date" : "2023-08-25 07:44:57 -0400",
+            "awake" : 0,
+            "inBed" : 10.532330316404501,
+            "source" : "EJ Fox’s iPhone",
+            "rem" : 0,
+            "deep" : 0,
+            "sleepEnd" : "2023-08-25 09:07:08 -0400",
+            "inBedEnd" : "2023-08-25 09:07:08 -0400",
+            "sleepStart" : "2023-08-24 22:35:09 -0400",
+            "inBedStart" : "2023-08-24 22:35:09 -0400"
+          },
+          {
+            "rem" : 1.9833333333333334,
+            "asleep" : 0,
+            "inBed" : 8.0267749599946878,
+            "source" : "EJ Fox’s iPhone|EJ’s Apple Watch",
+            "sleepStart" : "2023-08-28 00:14:50 -0400",
+            "date" : "2023-08-28 05:34:07 -0400",
+            "sleepEnd" : "2023-08-28 07:49:50 -0400",
+            "awake" : 0.44999999999999996,
+            "inBedStart" : "2023-08-27 23:47:06 -0400",
+            "inBedEnd" : "2023-08-28 07:50:14 -0400",
+            "deep" : 0.66666666666666663,
+            "core" : 4.4833333333333334
+          },
+          {
+            "awake" : 0,
+            "date" : "2023-08-29 00:13:39 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-28 22:20:00 -0400",
+            "sleepEnd" : "2023-08-29 07:59:39 -0400",
+            "core" : 0,
+            "rem" : 0,
+            "deep" : 0,
+            "asleep" : 0,
+            "inBed" : 9.6219439766804378,
+            "inBedStart" : "2023-08-28 22:20:00 -0400",
+            "inBedEnd" : "2023-08-29 07:59:39 -0400"
+          },
+          {
+            "deep" : 0,
+            "inBed" : 9.0775716969370848,
+            "core" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-29 22:20:00 -0400",
+            "awake" : 0,
+            "inBedStart" : "2023-08-29 22:20:00 -0400",
+            "date" : "2023-08-30 07:47:42 -0400",
+            "inBedEnd" : "2023-08-30 07:50:11 -0400",
+            "rem" : 0,
+            "sleepEnd" : "2023-08-30 07:50:11 -0400",
+            "asleep" : 0
+          },
+          {
+            "source" : "EJ Fox’s iPhone",
+            "deep" : 0,
+            "inBedEnd" : "2023-08-31 07:50:13 -0400",
+            "sleepStart" : "2023-08-30 23:40:52 -0400",
+            "asleep" : 0,
+            "awake" : 0,
+            "core" : 0,
+            "inBedStart" : "2023-08-30 23:40:52 -0400",
+            "sleepEnd" : "2023-08-31 07:50:13 -0400",
+            "rem" : 0,
+            "date" : "2023-08-31 07:38:25 -0400",
+            "inBed" : 4.88273859805531
+          },
+          {
+            "inBedStart" : "2023-08-31 22:54:35 -0400",
+            "inBedEnd" : "2023-09-01 07:50:10 -0400",
+            "sleepEnd" : "2023-09-01 07:50:10 -0400",
+            "date" : "2023-09-01 04:10:20 -0400",
+            "rem" : 0,
+            "awake" : 0,
+            "inBed" : 8.9051950933204758,
+            "asleep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-08-31 22:54:35 -0400",
+            "core" : 0,
+            "deep" : 0
+          },
+          {
+            "inBed" : 7.9883637444509397,
+            "date" : "2023-09-04 00:21:39 -0400",
+            "rem" : 0,
+            "asleep" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "sleepEnd" : "2023-09-04 07:50:18 -0400",
+            "inBedStart" : "2023-09-03 23:49:46 -0400",
+            "sleepStart" : "2023-09-03 23:49:46 -0400",
+            "inBedEnd" : "2023-09-04 07:50:18 -0400",
+            "core" : 0,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "inBedStart" : "2023-09-04 23:33:52 -0400",
+            "date" : "2023-09-04 23:33:52 -0400",
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "deep" : 0,
+            "sleepStart" : "2023-09-04 23:33:52 -0400",
+            "awake" : 0,
+            "asleep" : 0,
+            "inBed" : 8.1233333333333331,
+            "core" : 0,
+            "inBedEnd" : "2023-09-05 07:41:16 -0400",
+            "sleepEnd" : "2023-09-05 07:41:16 -0400"
+          },
+          {
+            "sleepStart" : "2023-09-05 22:47:08 -0400",
+            "awake" : 0,
+            "core" : 0,
+            "sleepEnd" : "2023-09-06 07:50:17 -0400",
+            "inBedStart" : "2023-09-05 22:47:08 -0400",
+            "inBedEnd" : "2023-09-06 07:50:17 -0400",
+            "inBed" : 8.695652096933788,
+            "deep" : 0,
+            "asleep" : 0,
+            "date" : "2023-09-06 07:20:51 -0400",
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "source" : "EJ Fox’s iPhone|EJ’s Apple Watch",
+            "core" : 4.2999999999999998,
+            "deep" : 0.96666666666666667,
+            "sleepEnd" : "2023-09-07 07:21:34 -0400",
+            "awake" : 0.38333333333333336,
+            "asleep" : 0,
+            "sleepStart" : "2023-09-06 23:37:34 -0400",
+            "inBedEnd" : "2023-09-07 07:50:16 -0400",
+            "inBed" : 8.1571572533249856,
+            "rem" : 2.0583333333333336,
+            "inBedStart" : "2023-09-06 23:33:12 -0400",
+            "date" : "2023-09-07 07:34:53 -0400"
+          },
+          {
+            "date" : "2023-09-07 22:51:42 -0400",
+            "inBedStart" : "2023-09-07 22:51:42 -0400",
+            "sleepStart" : "2023-09-07 22:51:42 -0400",
+            "deep" : 0,
+            "inBedEnd" : "2023-09-08 07:50:22 -0400",
+            "asleep" : 0,
+            "inBed" : 8.9779015472200179,
+            "rem" : 0,
+            "sleepEnd" : "2023-09-08 07:50:22 -0400",
+            "core" : 0,
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "inBed" : 8.3610287891825035,
+            "rem" : 2.3500000000000001,
+            "deep" : 0.9916666666666667,
+            "date" : "2023-09-11 07:26:01 -0400",
+            "asleep" : 0,
+            "awake" : 0.20000000000000001,
+            "sleepStart" : "2023-09-10 23:24:01 -0400",
+            "inBedEnd" : "2023-09-11 07:50:09 -0400",
+            "inBedStart" : "2023-09-10 23:28:13 -0400",
+            "core" : 4.8833333333333329,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "sleepEnd" : "2023-09-11 07:50:31 -0400"
+          },
+          {
+            "core" : 3.6416666666666666,
+            "inBed" : 8.6086557908190624,
+            "sleepStart" : "2023-09-12 00:56:33 -0400",
+            "awake" : 0.45833333333333337,
+            "inBedEnd" : "2023-09-12 07:50:17 -0400",
+            "sleepEnd" : "2023-09-12 07:46:33 -0400",
+            "asleep" : 0,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "rem" : 1.7833333333333332,
+            "inBedStart" : "2023-09-11 23:13:46 -0400",
+            "date" : "2023-09-11 23:13:46 -0400",
+            "deep" : 0.80833333333333335
+          },
+          {
+            "rem" : 1.6083333333333334,
+            "date" : "2023-09-13 01:00:58 -0400",
+            "core" : 3.7666666666666666,
+            "inBedStart" : "2023-09-12 22:20:00 -0400",
+            "inBedEnd" : "2023-09-13 07:50:18 -0400",
+            "deep" : 1.2833333333333334,
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "sleepStart" : "2023-09-12 22:20:00 -0400",
+            "awake" : 0.033333333333333333,
+            "inBed" : 9.3411776913868056,
+            "asleep" : 0,
+            "sleepEnd" : "2023-09-13 07:50:18 -0400"
+          },
+          {
+            "sleepEnd" : "2023-09-14 07:52:28 -0400",
+            "inBedEnd" : "2023-09-14 07:52:28 -0400",
+            "date" : "2023-09-14 00:26:31 -0400",
+            "asleep" : 0,
+            "deep" : 0,
+            "inBed" : 8.3957571252849359,
+            "sleepStart" : "2023-09-13 23:25:59 -0400",
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "rem" : 0,
+            "inBedStart" : "2023-09-13 23:25:59 -0400",
+            "core" : 0
+          },
+          {
+            "sleepStart" : "2023-09-14 22:20:00 -0400",
+            "sleepEnd" : "2023-09-15 07:50:20 -0400",
+            "asleep" : 0,
+            "inBed" : 9.4549943894479007,
+            "source" : "EJ Fox’s iPhone",
+            "deep" : 0,
+            "date" : "2023-09-15 00:24:34 -0400",
+            "core" : 0,
+            "inBedStart" : "2023-09-14 22:20:00 -0400",
+            "inBedEnd" : "2023-09-15 07:50:20 -0400",
+            "awake" : 0,
+            "rem" : 0
+          },
+          {
+            "deep" : 0,
+            "awake" : 0,
+            "inBed" : 9.4652486736244619,
+            "sleepStart" : "2023-09-17 22:20:00 -0400",
+            "inBedStart" : "2023-09-17 22:20:00 -0400",
+            "core" : 0,
+            "asleep" : 0,
+            "rem" : 0,
+            "date" : "2023-09-18 02:18:30 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "inBedEnd" : "2023-09-18 07:50:17 -0400",
+            "sleepEnd" : "2023-09-18 07:50:17 -0400"
+          },
+          {
+            "source" : "EJ Fox’s iPhone|EJ’s Apple Watch",
+            "sleepStart" : "2023-09-18 23:45:19 -0400",
+            "asleep" : 0,
+            "deep" : 1.0416666666666667,
+            "sleepEnd" : "2023-09-19 07:50:31 -0400",
+            "inBedStart" : "2023-09-18 23:45:19 -0400",
+            "inBedEnd" : "2023-09-19 07:50:31 -0400",
+            "awake" : 0.0083333333333333332,
+            "core" : 4.4749999999999996,
+            "date" : "2023-09-19 07:43:49 -0400",
+            "inBed" : 7.7134639644291667,
+            "rem" : 1.7416666666666667
+          },
+          {
+            "deep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "rem" : 0,
+            "asleep" : 0,
+            "core" : 0,
+            "awake" : 0,
+            "sleepEnd" : "2023-09-20 07:50:26 -0400",
+            "inBed" : 9.4955814672178693,
+            "inBedStart" : "2023-09-19 22:20:00 -0400",
+            "inBedEnd" : "2023-09-20 07:50:26 -0400",
+            "sleepStart" : "2023-09-19 22:20:00 -0400",
+            "date" : "2023-09-20 00:03:46 -0400"
+          },
+          {
+            "inBedEnd" : "2023-09-21 07:50:09 -0400",
+            "source" : "EJ’s Apple Watch|EJ Fox’s iPhone",
+            "asleep" : 0,
+            "rem" : 1.6749999999999998,
+            "date" : "2023-09-21 00:04:06 -0400",
+            "inBed" : 8.1633684622248008,
+            "sleepEnd" : "2023-09-21 07:49:58 -0400",
+            "deep" : 1.1166666666666667,
+            "sleepStart" : "2023-09-21 00:16:58 -0400",
+            "core" : 4.6416666666666675,
+            "inBedStart" : "2023-09-20 23:40:05 -0400",
+            "awake" : 0.11666666666666667
+          },
+          {
+            "deep" : 0,
+            "inBed" : 9.5084424680471429,
+            "core" : 0,
+            "sleepEnd" : "2023-09-22 07:50:30 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "asleep" : 0,
+            "rem" : 0,
+            "sleepStart" : "2023-09-21 22:20:00 -0400",
+            "awake" : 0,
+            "date" : "2023-09-21 22:20:00 -0400",
+            "inBedEnd" : "2023-09-22 07:50:30 -0400",
+            "inBedStart" : "2023-09-21 22:20:00 -0400"
+          },
+          {
+            "sleepStart" : "2023-09-24 23:43:16 -0400",
+            "asleep" : 0,
+            "date" : "2023-09-25 00:52:15 -0400",
+            "deep" : 0,
+            "awake" : 0,
+            "rem" : 0,
+            "sleepEnd" : "2023-09-25 07:50:18 -0400",
+            "inBedEnd" : "2023-09-25 07:50:18 -0400",
+            "core" : 0,
+            "inBedStart" : "2023-09-24 23:43:16 -0400",
+            "inBed" : 8.0885505386193586,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "inBed" : 9.4627943811151702,
+            "inBedEnd" : "2023-09-26 07:50:26 -0400",
+            "asleep" : 0,
+            "core" : 0,
+            "sleepEnd" : "2023-09-26 07:50:26 -0400",
+            "rem" : 0,
+            "deep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-09-25 22:20:00 -0400",
+            "inBedStart" : "2023-09-25 22:20:00 -0400",
+            "awake" : 0,
+            "date" : "2023-09-26 01:54:32 -0400"
+          },
+          {
+            "rem" : 0,
+            "date" : "2023-09-27 06:14:36 -0400",
+            "asleep" : 0,
+            "inBed" : 9.2078908572263192,
+            "sleepEnd" : "2023-09-27 07:50:29 -0400",
+            "inBedStart" : "2023-09-26 22:20:00 -0400",
+            "sleepStart" : "2023-09-26 22:20:00 -0400",
+            "core" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "inBedEnd" : "2023-09-27 07:50:29 -0400"
+          },
+          {
+            "date" : "2023-09-28 07:25:17 -0400",
+            "deep" : 0,
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepStart" : "2023-09-27 22:54:32 -0400",
+            "asleep" : 0,
+            "inBedStart" : "2023-09-27 22:54:32 -0400",
+            "inBed" : 8.5116666666666667,
+            "core" : 0,
+            "inBedEnd" : "2023-09-28 07:25:23 -0400",
+            "awake" : 0,
+            "sleepEnd" : "2023-09-28 07:25:23 -0400"
+          },
+          {
+            "sleepStart" : "2023-09-28 23:25:10 -0400",
+            "awake" : 0,
+            "deep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "asleep" : 0,
+            "date" : "2023-09-29 07:06:50 -0400",
+            "inBedStart" : "2023-09-28 23:25:10 -0400",
+            "core" : 0,
+            "inBed" : 7.0255575099918577,
+            "inBedEnd" : "2023-09-29 07:50:18 -0400",
+            "sleepEnd" : "2023-09-29 07:50:18 -0400",
+            "rem" : 0
+          },
+          {
+            "inBed" : 8.2163061955571166,
+            "deep" : 0,
+            "core" : 0,
+            "asleep" : 0,
+            "sleepStart" : "2023-10-01 23:36:12 -0400",
+            "inBedStart" : "2023-10-01 23:36:12 -0400",
+            "awake" : 0,
+            "inBedEnd" : "2023-10-02 07:50:25 -0400",
+            "date" : "2023-10-02 05:15:33 -0400",
+            "sleepEnd" : "2023-10-02 07:50:25 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "rem" : 0
+          },
+          {
+            "rem" : 0,
+            "inBedEnd" : "2023-10-03 07:43:37 -0400",
+            "deep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "inBedStart" : "2023-10-02 23:38:59 -0400",
+            "inBed" : 8.0172222222222214,
+            "asleep" : 0,
+            "core" : 0,
+            "awake" : 0,
+            "sleepStart" : "2023-10-02 23:38:59 -0400",
+            "sleepEnd" : "2023-10-03 07:43:37 -0400",
+            "date" : "2023-10-03 07:11:26 -0400"
+          },
+          {
+            "awake" : 0,
+            "asleep" : 0,
+            "sleepStart" : "2023-10-03 23:48:04 -0400",
+            "inBed" : 6.6533098544345961,
+            "rem" : 0,
+            "date" : "2023-10-04 02:43:04 -0400",
+            "source" : "EJ Fox’s iPhone",
+            "sleepEnd" : "2023-10-04 07:50:24 -0400",
+            "inBedStart" : "2023-10-03 23:48:04 -0400",
+            "core" : 0,
+            "inBedEnd" : "2023-10-04 07:50:24 -0400",
+            "deep" : 0
+          },
+          {
+            "sleepStart" : "2023-10-04 22:20:00 -0400",
+            "inBed" : 7.9091666666666658,
+            "awake" : 0,
+            "date" : "2023-10-05 06:08:01 -0400",
+            "sleepEnd" : "2023-10-05 06:18:10 -0400",
+            "inBedEnd" : "2023-10-05 06:18:10 -0400",
+            "asleep" : 0,
+            "inBedStart" : "2023-10-04 22:20:00 -0400",
+            "core" : 0,
+            "deep" : 0,
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone"
+          },
+          {
+            "sleepEnd" : "2023-10-06 07:50:14 -0400",
+            "asleep" : 0,
+            "sleepStart" : "2023-10-05 22:20:00 -0400",
+            "inBedEnd" : "2023-10-06 07:50:14 -0400",
+            "core" : 0,
+            "inBedStart" : "2023-10-05 22:20:00 -0400",
+            "inBed" : 9.465186934438016,
+            "rem" : 0,
+            "deep" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "date" : "2023-10-06 03:19:21 -0400",
+            "awake" : 0
+          },
+          {
+            "deep" : 0,
+            "awake" : 0,
+            "inBedEnd" : "2023-10-09 08:15:18 -0400",
+            "inBedStart" : "2023-10-09 01:10:52 -0400",
+            "date" : "2023-10-09 07:51:11 -0400",
+            "sleepEnd" : "2023-10-09 08:15:18 -0400",
+            "core" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "inBed" : 4.4642338819305101,
+            "sleepStart" : "2023-10-09 01:10:52 -0400",
+            "rem" : 0,
+            "asleep" : 0
+          },
+          {
+            "inBedStart" : "2023-10-10 00:31:47 -0400",
+            "inBedEnd" : "2023-10-10 08:15:16 -0400",
+            "inBed" : 7.7249952772259709,
+            "sleepStart" : "2023-10-10 00:31:47 -0400",
+            "asleep" : 0,
+            "core" : 0,
+            "deep" : 0,
+            "date" : "2023-10-10 00:31:47 -0400",
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "sleepEnd" : "2023-10-10 08:15:16 -0400",
+            "rem" : 0
+          },
+          {
+            "sleepEnd" : "2023-10-11 08:15:19 -0400",
+            "inBedEnd" : "2023-10-11 08:15:19 -0400",
+            "rem" : 0,
+            "core" : 0,
+            "awake" : 0,
+            "deep" : 0,
+            "sleepStart" : "2023-10-10 23:45:00 -0400",
+            "date" : "2023-10-11 03:57:31 -0400",
+            "asleep" : 0,
+            "inBed" : 7.6592269716660182,
+            "source" : "EJ Fox’s iPhone",
+            "inBedStart" : "2023-10-10 23:45:00 -0400"
+          },
+          {
+            "core" : 0,
+            "awake" : 0,
+            "sleepStart" : "2023-10-11 23:45:00 -0400",
+            "inBed" : 8.230602322783735,
+            "date" : "2023-10-12 02:55:49 -0400",
+            "sleepEnd" : "2023-10-12 08:15:32 -0400",
+            "deep" : 0,
+            "inBedEnd" : "2023-10-12 08:15:32 -0400",
+            "inBedStart" : "2023-10-11 23:45:00 -0400",
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone",
+            "asleep" : 0
+          },
+          {
+            "source" : "iPhone|EJ Fox’s iPhone",
+            "deep" : 0,
+            "sleepStart" : "2023-10-12 23:45:00 -0400",
+            "sleepEnd" : "2023-10-13 08:15:59 -0400",
+            "asleep" : 0,
+            "inBedStart" : "2023-10-12 23:45:00 -0400",
+            "rem" : 0,
+            "core" : 0,
+            "inBed" : 8.5164958841602001,
+            "date" : "2023-10-12 23:45:00 -0400",
+            "awake" : 0,
+            "inBedEnd" : "2023-10-13 08:15:59 -0400"
+          },
+          {
+            "sleepStart" : "2023-10-15 23:45:00 -0400",
+            "date" : "2023-10-15 23:45:00 -0400",
+            "deep" : 0,
+            "inBedStart" : "2023-10-15 23:45:00 -0400",
+            "inBedEnd" : "2023-10-16 08:15:55 -0400",
+            "rem" : 0,
+            "inBed" : 8.5153216305706234,
+            "awake" : 0,
+            "source" : "EJ Fox’s iPhone|iPhone",
+            "asleep" : 0,
+            "core" : 0,
+            "sleepEnd" : "2023-10-16 08:15:55 -0400"
+          },
+          {
+            "date" : "2023-10-17 00:13:01 -0400",
+            "inBed" : 8.0431574880414534,
+            "core" : 0,
+            "sleepStart" : "2023-10-17 00:13:01 -0400",
+            "awake" : 0,
+            "inBedStart" : "2023-10-17 00:13:01 -0400",
+            "rem" : 0,
+            "source" : "EJ Fox’s iPhone|iPhone",
+            "sleepEnd" : "2023-10-17 08:15:36 -0400",
+            "inBedEnd" : "2023-10-17 08:15:36 -0400",
+            "asleep" : 0,
+            "deep" : 0
+          },
+          {
+            "asleep" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "sleepStart" : "2023-10-17 23:45:00 -0400",
+            "inBed" : 6.5353625619411471,
+            "source" : "iPhone",
+            "inBedEnd" : "2023-10-18 08:15:13 -0400",
+            "date" : "2023-10-18 02:00:32 -0400",
+            "sleepEnd" : "2023-10-18 08:15:13 -0400",
+            "core" : 0,
+            "inBedStart" : "2023-10-17 23:45:00 -0400",
+            "rem" : 0
+          },
+          {
+            "source" : "iPhone",
+            "inBedEnd" : "2023-10-19 08:15:14 -0400",
+            "sleepStart" : "2023-10-18 23:45:00 -0400",
+            "awake" : 0,
+            "inBedStart" : "2023-10-18 23:45:00 -0400",
+            "rem" : 0,
+            "asleep" : 0,
+            "date" : "2023-10-18 23:45:00 -0400",
+            "deep" : 0,
+            "core" : 0,
+            "sleepEnd" : "2023-10-19 08:15:14 -0400",
+            "inBed" : 8.5040781044297749
+          },
+          {
+            "core" : 0,
+            "inBed" : 6.3282013341784484,
+            "sleepEnd" : "2023-10-20 08:15:35 -0400",
+            "inBedEnd" : "2023-10-20 08:15:35 -0400",
+            "rem" : 0,
+            "asleep" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "inBedStart" : "2023-10-20 01:49:03 -0400",
+            "source" : "iPhone",
+            "date" : "2023-10-20 03:19:00 -0400",
+            "sleepStart" : "2023-10-20 01:49:03 -0400"
+          },
+          {
+            "deep" : 0,
+            "awake" : 0,
+            "sleepStart" : "2023-10-23 00:52:31 -0400",
+            "core" : 0,
+            "rem" : 0,
+            "inBed" : 7.2562451130482888,
+            "sleepEnd" : "2023-10-23 08:15:17 -0400",
+            "inBedStart" : "2023-10-23 00:52:31 -0400",
+            "inBedEnd" : "2023-10-23 08:15:17 -0400",
+            "date" : "2023-10-23 01:54:16 -0400",
+            "asleep" : 0,
+            "source" : "iPhone"
+          },
+          {
+            "deep" : 0,
+            "sleepEnd" : "2023-10-24 08:15:19 -0400",
+            "sleepStart" : "2023-10-24 00:33:13 -0400",
+            "asleep" : 0,
+            "date" : "2023-10-24 02:02:25 -0400",
+            "core" : 0,
+            "rem" : 0,
+            "awake" : 0,
+            "source" : "iPhone",
+            "inBedStart" : "2023-10-24 00:33:13 -0400",
+            "inBed" : 7.5137327577670421,
+            "inBedEnd" : "2023-10-24 08:15:19 -0400"
+          },
+          {
+            "inBedEnd" : "2023-10-25 08:15:11 -0400",
+            "date" : "2023-10-25 04:42:26 -0400",
+            "asleep" : 0,
+            "sleepStart" : "2023-10-24 23:45:00 -0400",
+            "inBedStart" : "2023-10-24 23:45:00 -0400",
+            "core" : 0,
+            "source" : "iPhone",
+            "rem" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "inBed" : 7.0976200614041751,
+            "sleepEnd" : "2023-10-25 08:15:11 -0400"
+          },
+          {
+            "rem" : 0,
+            "core" : 0,
+            "deep" : 0,
+            "awake" : 0,
+            "date" : "2023-10-26 00:19:45 -0400",
+            "sleepEnd" : "2023-10-26 08:15:15 -0400",
+            "sleepStart" : "2023-10-26 00:19:45 -0400",
+            "source" : "iPhone",
+            "inBedStart" : "2023-10-26 00:19:45 -0400",
+            "inBedEnd" : "2023-10-26 08:15:15 -0400",
+            "asleep" : 0,
+            "inBed" : 7.9250850991739163
+          },
+          {
+            "asleep" : 0,
+            "core" : 0,
+            "awake" : 0,
+            "inBedStart" : "2023-10-27 00:23:36 -0400",
+            "inBed" : 7.8617719961206118,
+            "source" : "iPhone",
+            "sleepStart" : "2023-10-27 00:23:36 -0400",
+            "rem" : 0,
+            "sleepEnd" : "2023-10-27 08:15:18 -0400",
+            "inBedEnd" : "2023-10-27 08:15:18 -0400",
+            "date" : "2023-10-27 00:23:36 -0400",
+            "deep" : 0
+          },
+          {
+            "deep" : 0,
+            "inBedStart" : "2023-10-30 00:38:19 -0400",
+            "core" : 0,
+            "awake" : 0,
+            "source" : "iPhone",
+            "date" : "2023-10-30 04:46:46 -0400",
+            "inBed" : 7.6118096416526368,
+            "sleepStart" : "2023-10-30 00:38:19 -0400",
+            "sleepEnd" : "2023-10-30 08:15:05 -0400",
+            "asleep" : 0,
+            "inBedEnd" : "2023-10-30 08:15:05 -0400",
+            "rem" : 0
+          },
+          {
+            "inBedEnd" : "2023-10-31 08:15:11 -0400",
+            "asleep" : 0,
+            "sleepEnd" : "2023-10-31 08:15:11 -0400",
+            "inBed" : 8.4954073094328244,
+            "awake" : 0,
+            "source" : "iPhone",
+            "rem" : 0,
+            "core" : 0,
+            "deep" : 0,
+            "sleepStart" : "2023-10-30 23:45:00 -0400",
+            "inBedStart" : "2023-10-30 23:45:00 -0400",
+            "date" : "2023-10-31 01:52:21 -0400"
+          }
+        ],
+        "name" : "sleep_analysis",
+        "units" : "hr"
+      },
+      {
+        "name" : "heart_rate",
+        "units" : "count\/min",
+        "data" : [
+          {
+            "Avg" : 88,
+            "Max" : 88,
+            "date" : "2023-08-20 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 88
+          },
+          {
+            "date" : "2023-08-21 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Max" : 151,
+            "Avg" : 77.094813060749203,
+            "Min" : 46.000000000000007
+          },
+          {
+            "Avg" : 72.52088451632352,
+            "Min" : 44,
+            "Max" : 153,
+            "date" : "2023-08-22 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 91.19550207644545,
+            "Min" : 59,
+            "Max" : 145,
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "Max" : 98,
+            "Avg" : 78.137316117987709,
+            "date" : "2023-08-25 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 68
+          },
+          {
+            "Max" : 78,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "date" : "2023-08-26 00:00:00 -0400",
+            "Avg" : 57.407844215630192,
+            "Min" : 50
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 67,
+            "Max" : 76,
+            "Avg" : 70.670533113356527,
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "Min" : 50,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Max" : 69,
+            "Avg" : 55.882288816736605,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "date" : "2023-09-04 00:00:00 -0400",
+            "Min" : 54.280979156494141,
+            "Max" : 145,
+            "Avg" : 86.00586148918218
+          },
+          {
+            "Max" : 96,
+            "date" : "2023-09-05 00:00:00 -0400",
+            "Min" : 55,
+            "Avg" : 71.472416196550668,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch"
+          },
+          {
+            "Min" : 62.813053131103523,
+            "Avg" : 78.323701207590773,
+            "date" : "2023-09-06 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Max" : 112
+          },
+          {
+            "Max" : 132,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 48,
+            "Avg" : 71.849653081555715,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "Avg" : 75.415346501042265,
+            "Max" : 122,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 59,
+            "date" : "2023-09-08 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "Max" : 97,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 71.689564774152771,
+            "Min" : 60
+          },
+          {
+            "Max" : 127,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "date" : "2023-09-11 00:00:00 -0400",
+            "Min" : 38,
+            "Avg" : 62.823735126126216
+          },
+          {
+            "Avg" : 70.193318629749342,
+            "Max" : 148,
+            "Min" : 44.858692169189453,
+            "date" : "2023-09-12 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch"
+          },
+          {
+            "Min" : 45,
+            "date" : "2023-09-13 00:00:00 -0400",
+            "Avg" : 58.036633375924161,
+            "Max" : 99,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch"
+          },
+          {
+            "Min" : 51,
+            "date" : "2023-09-17 00:00:00 -0400",
+            "Max" : 153,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 72.209608834026312
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 52,
+            "date" : "2023-09-18 00:00:00 -0400",
+            "Max" : 87,
+            "Avg" : 68.41930567472663
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 47,
+            "Avg" : 67.684742140127142,
+            "Max" : 153,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "Max" : 143,
+            "date" : "2023-09-20 00:00:00 -0400",
+            "Min" : 53.796073913574219,
+            "Avg" : 81.332050822151061,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch"
+          },
+          {
+            "Max" : 75,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "date" : "2023-09-21 00:00:00 -0400",
+            "Min" : 49,
+            "Avg" : 59.231253990250778
+          },
+          {
+            "Max" : 151,
+            "Min" : 57,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 84.469392326481184,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Min" : 65,
+            "Avg" : 136.10440648015739,
+            "Max" : 158,
+            "date" : "2023-09-27 00:00:00 -0400"
+          },
+          {
+            "Min" : 72,
+            "Max" : 106,
+            "Avg" : 82.133871158730329,
+            "date" : "2023-09-30 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch"
+          },
+          {
+            "Max" : 81,
+            "Min" : 48,
+            "Avg" : 59.047782641444151,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "Min" : 58,
+            "Max" : 110,
+            "Avg" : 80.414766714113568,
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 75.559086961890301,
+            "date" : "2023-10-12 00:00:00 -0400",
+            "Max" : 102,
+            "Min" : 58.010684967041016
+          },
+          {
+            "date" : "2023-10-13 00:00:00 -0400",
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 66.333333333333343,
+            "Max" : 70,
+            "Min" : 62.000000000000007
+          },
+          {
+            "source" : "EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch|EJ’s Apple Watch",
+            "Avg" : 70.51276115711201,
+            "Max" : 94,
+            "date" : "2023-10-31 00:00:00 -0400",
+            "Min" : 57
+          }
+        ]
+      },
+      {
+        "name" : "walking_step_length",
+        "units" : "in",
+        "data" : [
+          {
+            "qty" : 21.555118110236219,
+            "date" : "2023-08-02 00:00:00 -0400"
+          },
+          {
+            "qty" : 16.666666666666668,
+            "date" : "2023-08-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "qty" : 18.858267716535437
+          },
+          {
+            "qty" : 20.757874015748037,
+            "date" : "2023-08-05 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-06 00:00:00 -0400",
+            "qty" : 25.043744531933509
+          },
+          {
+            "date" : "2023-08-07 00:00:00 -0400",
+            "qty" : 26.824146981627297
+          },
+          {
+            "date" : "2023-08-08 00:00:00 -0400",
+            "qty" : 24.488188976377955
+          },
+          {
+            "date" : "2023-08-09 00:00:00 -0400",
+            "qty" : 24.212598425196848
+          },
+          {
+            "date" : "2023-08-10 00:00:00 -0400",
+            "qty" : 17.66732283464567
+          },
+          {
+            "qty" : 18.274278215223099,
+            "date" : "2023-08-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 22.211286089238843,
+            "date" : "2023-08-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-14 00:00:00 -0400",
+            "qty" : 24.128233970753659
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 22.464566929133863
+          },
+          {
+            "qty" : 24.958989501312342,
+            "date" : "2023-08-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 29.084645669291337,
+            "date" : "2023-08-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 21.522309711286095,
+            "date" : "2023-08-18 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-19 00:00:00 -0400",
+            "qty" : 22.213809812235013
+          },
+          {
+            "date" : "2023-08-20 00:00:00 -0400",
+            "qty" : 24.552612741589122
+          },
+          {
+            "qty" : 22.860892388451443,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 28.786475220009265
+          },
+          {
+            "qty" : 24.472440944881892,
+            "date" : "2023-08-23 00:00:00 -0400"
+          },
+          {
+            "qty" : 26.807444523979953,
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-25 00:00:00 -0400",
+            "qty" : 28.198818897637807
+          },
+          {
+            "qty" : 24.240719910011251,
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-27 00:00:00 -0400",
+            "qty" : 18.602362204724411
+          },
+          {
+            "date" : "2023-08-28 00:00:00 -0400",
+            "qty" : 30.367454068241475
+          },
+          {
+            "qty" : 24.4488188976378,
+            "date" : "2023-08-29 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-30 00:00:00 -0400",
+            "qty" : 23.900918635170601
+          },
+          {
+            "date" : "2023-08-31 00:00:00 -0400",
+            "qty" : 22.125984251968511
+          },
+          {
+            "date" : "2023-09-01 00:00:00 -0400",
+            "qty" : 22.498210450966358
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 21.653543307086618
+          },
+          {
+            "date" : "2023-09-03 00:00:00 -0400",
+            "qty" : 21.850393700787404
+          },
+          {
+            "date" : "2023-09-04 00:00:00 -0400",
+            "qty" : 24.704724409448822
+          },
+          {
+            "date" : "2023-09-05 00:00:00 -0400",
+            "qty" : 23.622047244094492
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 22.637795275590555
+          },
+          {
+            "date" : "2023-09-07 00:00:00 -0400",
+            "qty" : 26.581591094216677
+          },
+          {
+            "qty" : 19.685039370078741,
+            "date" : "2023-09-08 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-09 00:00:00 -0400",
+            "qty" : 19.488188976377952
+          },
+          {
+            "qty" : 25.984251968503937,
+            "date" : "2023-09-10 00:00:00 -0400"
+          },
+          {
+            "qty" : 27.334083239595049,
+            "date" : "2023-09-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 26.820866141732285,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 24.059492563429572
+          },
+          {
+            "date" : "2023-09-14 00:00:00 -0400",
+            "qty" : 21.062992125984252
+          },
+          {
+            "qty" : 25.173691523853638,
+            "date" : "2023-09-15 00:00:00 -0400"
+          },
+          {
+            "qty" : 22.244094488188981,
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 22.514763779527559,
+            "date" : "2023-09-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 18.841394825646795
+          },
+          {
+            "qty" : 22.681539807524057,
+            "date" : "2023-09-19 00:00:00 -0400"
+          },
+          {
+            "qty" : 25.618672665916762,
+            "date" : "2023-09-20 00:00:00 -0400"
+          },
+          {
+            "qty" : 22.276902887139112,
+            "date" : "2023-09-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-22 00:00:00 -0400",
+            "qty" : 26.404199475065617
+          },
+          {
+            "date" : "2023-09-23 00:00:00 -0400",
+            "qty" : 19.010123734533181
+          },
+          {
+            "qty" : 21.078134463961241,
+            "date" : "2023-09-24 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-25 00:00:00 -0400",
+            "qty" : 22.890888638920135
+          },
+          {
+            "qty" : 26.771653543307089,
+            "date" : "2023-09-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 23.040869891263601,
+            "date" : "2023-09-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 24.043869516310462,
+            "date" : "2023-09-28 00:00:00 -0400"
+          },
+          {
+            "qty" : 19.225721784776901,
+            "date" : "2023-09-29 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-30 00:00:00 -0400",
+            "qty" : 19.685039370078741
+          },
+          {
+            "date" : "2023-10-01 00:00:00 -0400",
+            "qty" : 23.385826771653537
+          },
+          {
+            "date" : "2023-10-02 00:00:00 -0400",
+            "qty" : 19.586614173228348
+          },
+          {
+            "qty" : 22.933070866141733,
+            "date" : "2023-10-03 00:00:00 -0400"
+          },
+          {
+            "qty" : 24.934383202099738,
+            "date" : "2023-10-04 00:00:00 -0400"
+          },
+          {
+            "qty" : 26.5748031496063,
+            "date" : "2023-10-05 00:00:00 -0400"
+          },
+          {
+            "qty" : 24.094488188976378,
+            "date" : "2023-10-06 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-07 00:00:00 -0400",
+            "qty" : 21.5748031496063
+          },
+          {
+            "qty" : 19.947506561679791,
+            "date" : "2023-10-08 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-09 00:00:00 -0400",
+            "qty" : 23.78608923884514
+          },
+          {
+            "date" : "2023-10-10 00:00:00 -0400",
+            "qty" : 26.856017997750286
+          },
+          {
+            "qty" : 21.295633500357912,
+            "date" : "2023-10-11 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 19.516310461192351
+          },
+          {
+            "date" : "2023-10-13 00:00:00 -0400",
+            "qty" : 22.531798909751672
+          },
+          {
+            "date" : "2023-10-14 00:00:00 -0400",
+            "qty" : 16.929133858267715
+          },
+          {
+            "date" : "2023-10-15 00:00:00 -0400",
+            "qty" : 24.894003634161116
+          },
+          {
+            "date" : "2023-10-16 00:00:00 -0400",
+            "qty" : 24.059492563429576
+          },
+          {
+            "qty" : 20.984251968503941,
+            "date" : "2023-10-17 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-18 00:00:00 -0400",
+            "qty" : 23.790776152980875
+          },
+          {
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 26.191462909241608
+          },
+          {
+            "qty" : 13.779527559055119,
+            "date" : "2023-10-20 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-21 00:00:00 -0400",
+            "qty" : 22.834645669291337
+          },
+          {
+            "date" : "2023-10-22 00:00:00 -0400",
+            "qty" : 22.798854688618466
+          },
+          {
+            "date" : "2023-10-23 00:00:00 -0400",
+            "qty" : 17.847769028871394
+          },
+          {
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 23.031496062992129
+          },
+          {
+            "qty" : 23.63916466963369,
+            "date" : "2023-10-25 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-26 00:00:00 -0400",
+            "qty" : 24.201018990273276
+          },
+          {
+            "date" : "2023-10-27 00:00:00 -0400",
+            "qty" : 20.971128608923888
+          },
+          {
+            "qty" : 20.472440944881892,
+            "date" : "2023-10-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-29 00:00:00 -0400",
+            "qty" : 21.017565112053301
+          },
+          {
+            "date" : "2023-10-30 00:00:00 -0400",
+            "qty" : 25.278871391076112
+          },
+          {
+            "qty" : 24.827010260081128,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ]
+      },
+      {
+        "units" : "%",
+        "data" : [
+          {
+            "date" : "2023-08-02 00:00:00 -0400",
+            "qty" : 31.600000000000001
+          },
+          {
+            "qty" : 32.833333333333336,
+            "date" : "2023-08-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-04 00:00:00 -0400",
+            "qty" : 32.600000000000001
+          },
+          {
+            "date" : "2023-08-05 00:00:00 -0400",
+            "qty" : 32.222857142857158
+          },
+          {
+            "date" : "2023-08-06 00:00:00 -0400",
+            "qty" : 31.117647058823522
+          },
+          {
+            "qty" : 28.518181818181823,
+            "date" : "2023-08-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 31,
+            "date" : "2023-08-08 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.412500000000001,
+            "date" : "2023-08-09 00:00:00 -0400"
+          },
+          {
+            "qty" : 33,
+            "date" : "2023-08-10 00:00:00 -0400"
+          },
+          {
+            "qty" : 32.755555555555553,
+            "date" : "2023-08-11 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.363636363636363,
+            "date" : "2023-08-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-14 00:00:00 -0400",
+            "qty" : 31.442857142857143
+          },
+          {
+            "date" : "2023-08-15 00:00:00 -0400",
+            "qty" : 31.947826086956528
+          },
+          {
+            "qty" : 30.850000000000001,
+            "date" : "2023-08-16 00:00:00 -0400"
+          },
+          {
+            "qty" : 28.88571428571429,
+            "date" : "2023-08-17 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.40588235294118,
+            "date" : "2023-08-18 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.704761904761909,
+            "date" : "2023-08-19 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-20 00:00:00 -0400",
+            "qty" : 30.435000000000002
+          },
+          {
+            "qty" : 31.136363636363637,
+            "date" : "2023-08-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-22 00:00:00 -0400",
+            "qty" : 29.023529411764706
+          },
+          {
+            "date" : "2023-08-23 00:00:00 -0400",
+            "qty" : 30.413636363636371
+          },
+          {
+            "qty" : 29.600000000000001,
+            "date" : "2023-08-24 00:00:00 -0400"
+          },
+          {
+            "qty" : 29.787500000000005,
+            "date" : "2023-08-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 29.860000000000003,
+            "date" : "2023-08-26 00:00:00 -0400"
+          },
+          {
+            "qty" : 33.033333333333331,
+            "date" : "2023-08-27 00:00:00 -0400"
+          },
+          {
+            "qty" : 28.95333333333333,
+            "date" : "2023-08-28 00:00:00 -0400"
+          },
+          {
+            "qty" : 30.56666666666667,
+            "date" : "2023-08-29 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-08-30 00:00:00 -0400",
+            "qty" : 31.281818181818185
+          },
+          {
+            "date" : "2023-08-31 00:00:00 -0400",
+            "qty" : 31.608333333333338
+          },
+          {
+            "qty" : 31.987500000000001,
+            "date" : "2023-09-01 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-02 00:00:00 -0400",
+            "qty" : 31.208333333333332
+          },
+          {
+            "qty" : 29.600000000000001,
+            "date" : "2023-09-03 00:00:00 -0400"
+          },
+          {
+            "qty" : 30.683333333333334,
+            "date" : "2023-09-04 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.112499999999997,
+            "date" : "2023-09-05 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-06 00:00:00 -0400",
+            "qty" : 30.918181818181822
+          },
+          {
+            "qty" : 29.774999999999995,
+            "date" : "2023-09-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.649999999999999,
+            "date" : "2023-09-08 00:00:00 -0400"
+          },
+          {
+            "qty" : 32.455555555555549,
+            "date" : "2023-09-09 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-10 00:00:00 -0400",
+            "qty" : 30.59090909090909
+          },
+          {
+            "date" : "2023-09-11 00:00:00 -0400",
+            "qty" : 29.807692307692307
+          },
+          {
+            "qty" : 29.968750000000004,
+            "date" : "2023-09-12 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-13 00:00:00 -0400",
+            "qty" : 30.788888888888884
+          },
+          {
+            "qty" : 32.1875,
+            "date" : "2023-09-14 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-15 00:00:00 -0400",
+            "qty" : 30.533333333333328
+          },
+          {
+            "qty" : 31.62307692307693,
+            "date" : "2023-09-16 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-17 00:00:00 -0400",
+            "qty" : 31.61538461538461
+          },
+          {
+            "date" : "2023-09-18 00:00:00 -0400",
+            "qty" : 32.539999999999999
+          },
+          {
+            "date" : "2023-09-19 00:00:00 -0400",
+            "qty" : 31.441176470588228
+          },
+          {
+            "qty" : 30.728571428571435,
+            "date" : "2023-09-20 00:00:00 -0400"
+          },
+          {
+            "qty" : 32.300000000000004,
+            "date" : "2023-09-21 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-22 00:00:00 -0400",
+            "qty" : 30.185714285714283
+          },
+          {
+            "date" : "2023-09-23 00:00:00 -0400",
+            "qty" : 33.585714285714282
+          },
+          {
+            "date" : "2023-09-24 00:00:00 -0400",
+            "qty" : 31.472727272727273
+          },
+          {
+            "date" : "2023-09-25 00:00:00 -0400",
+            "qty" : 31.385714285714283
+          },
+          {
+            "date" : "2023-09-26 00:00:00 -0400",
+            "qty" : 28.983333333333331
+          },
+          {
+            "date" : "2023-09-27 00:00:00 -0400",
+            "qty" : 31.152631578947368
+          },
+          {
+            "qty" : 31.113888888888894,
+            "date" : "2023-09-28 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-09-29 00:00:00 -0400",
+            "qty" : 32.820000000000007
+          },
+          {
+            "qty" : 31.399999999999999,
+            "date" : "2023-09-30 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.579999999999995,
+            "date" : "2023-10-01 00:00:00 -0400"
+          },
+          {
+            "qty" : 32.899999999999999,
+            "date" : "2023-10-02 00:00:00 -0400"
+          },
+          {
+            "qty" : 30.842857142857138,
+            "date" : "2023-10-03 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-04 00:00:00 -0400",
+            "qty" : 29.887499999999999
+          },
+          {
+            "date" : "2023-10-05 00:00:00 -0400",
+            "qty" : 30.825000000000003
+          },
+          {
+            "qty" : 30.840000000000003,
+            "date" : "2023-10-06 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.811111111111106,
+            "date" : "2023-10-07 00:00:00 -0400"
+          },
+          {
+            "qty" : 33.299999999999997,
+            "date" : "2023-10-08 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.072727272727274,
+            "date" : "2023-10-09 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-10 00:00:00 -0400",
+            "qty" : 30.676923076923075
+          },
+          {
+            "date" : "2023-10-11 00:00:00 -0400",
+            "qty" : 32.466666666666669
+          },
+          {
+            "date" : "2023-10-12 00:00:00 -0400",
+            "qty" : 32.775000000000006
+          },
+          {
+            "qty" : 31.845454545454547,
+            "date" : "2023-10-13 00:00:00 -0400"
+          },
+          {
+            "qty" : 33,
+            "date" : "2023-10-14 00:00:00 -0400"
+          },
+          {
+            "qty" : 31.592307692307692,
+            "date" : "2023-10-15 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-16 00:00:00 -0400",
+            "qty" : 30.52
+          },
+          {
+            "date" : "2023-10-17 00:00:00 -0400",
+            "qty" : 33.560000000000002
+          },
+          {
+            "qty" : 31.62857142857143,
+            "date" : "2023-10-18 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-19 00:00:00 -0400",
+            "qty" : 30.572222222222219
+          },
+          {
+            "date" : "2023-10-21 00:00:00 -0400",
+            "qty" : 31.775000000000002
+          },
+          {
+            "qty" : 31.409999999999997,
+            "date" : "2023-10-22 00:00:00 -0400"
+          },
+          {
+            "qty" : 34.100000000000001,
+            "date" : "2023-10-23 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-24 00:00:00 -0400",
+            "qty" : 31.209999999999997
+          },
+          {
+            "qty" : 31.371428571428574,
+            "date" : "2023-10-25 00:00:00 -0400"
+          },
+          {
+            "qty" : 30.952941176470578,
+            "date" : "2023-10-26 00:00:00 -0400"
+          },
+          {
+            "date" : "2023-10-27 00:00:00 -0400",
+            "qty" : 32.753333333333337
+          },
+          {
+            "date" : "2023-10-28 00:00:00 -0400",
+            "qty" : 33.266666666666659
+          },
+          {
+            "date" : "2023-10-29 00:00:00 -0400",
+            "qty" : 31.490909090909089
+          },
+          {
+            "date" : "2023-10-30 00:00:00 -0400",
+            "qty" : 30.595833333333331
+          },
+          {
+            "qty" : 30.619354838709679,
+            "date" : "2023-10-31 00:00:00 -0400"
+          }
+        ],
+        "name" : "walking_double_support_percentage"
+      }
+    ],
+    "ecg" : [
+
+    ],
+    "workouts" : [
+
+    ]
+  }
+}
