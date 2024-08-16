@@ -1,7 +1,0 @@
-[build]
-  command = "nuxi generate"
-  publish = "dist"
-[build.environment]
-  NODE_OPTIONS = "--max-old-space-size=8192"
-[context.production.environment]
-  NUXT_TELEMETRY_DISABLED = "1"

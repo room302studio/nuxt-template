@@ -1,4 +1,4 @@
-import pkg from './package.json';
+import pkg from './package.json'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -15,34 +15,21 @@ export default defineNuxtConfig({
   ssr: false, // for netlify deploy
   devtools: { enabled: true },
   modules: [
-    '@nuxtjs/supabase',
+    // '@nuxtjs/supabase',
     '@vueuse/nuxt',
     '@nuxt/ui',
-    '@nuxt/content',
-    [
-      '@nuxtjs/google-fonts',
-      {
-        families: {
-          Figtree: [400, 500, 700, 800],
-        },
+    '@vueuse/motion/nuxt',
+    ['@nuxtjs/google-fonts', {
+      families: {
+        'Figtree': [400, 700],
       },
-    ],
+    }],
   ],
-  content: {
-    documentDriven: true,
-  },
-  supabase: {
-    redirectOptions: {
-      login: '/login',
-      callback: '/confirm',
-      exclude: ['/'],
-    },
-  },
   runtimeConfig: {
-    WEATHER_KEY: process.env.WEATHER_KEY,
     // add the openai api key to the runtime config
     public: {
+      OPENAI_API_KEY: process.env.OPENAI_API_KEY,
       PRODUCTION: process.env.PRODUCTION,
     },
   },
-});
+})

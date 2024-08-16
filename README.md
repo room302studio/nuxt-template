@@ -1,32 +1,51 @@
-# Room 302 Nuxt 3 Starter
+# Better Life HUD
 
-## Usage
-`npx room302-template`
+The goal: incorporate a variety of different data sources in order to live a more fulfilling and joyful life.
 
-Deployed through a small script that handles naming, cloning, and setting up the repo for prototyping. <https://www.npmjs.com/package/room302-template>
+## Data Sources
 
-## What's different from the standard Nuxt 3 starter?
-- VueUse 🔧 
-- Vueuse motion 🌈 
-- OpenAI plugin 🧠 
-- Pinia store 🏬 
-- Helpers file 🔨 
-- Google fonts 🖋️ 
+### iOS
+- Healthkit: Exercise and mindfulness data
+- Screen time: Time spent on phone
+- Sleep: Sleep data
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Other
+- Harvest: Time spent on work and different clients
+- Calendar: Time spent on meetings vs personal time
+- Spotify: Music listening data
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# yarn install
+# yarn
 yarn install
+```
 
-# run the dev server
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# yarn
 yarn dev
 ```
 
-## Deployment
+## Production
+
+Build the application for production:
+
+```bash
+# yarn
+yarn build
+```
+
+Locally preview production build:
+
+```bash
+# yarn
+yarn preview
+```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
