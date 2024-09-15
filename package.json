@@ -1,5 +1,5 @@
 {
-  "name": "better-life-hud",
+  "name": "nuxt-app",
   "version": "0.0.2",
   "private": true,
   "scripts": {
@@ -17,7 +17,6 @@
     "nuxt": "^3.6.5"
   },
   "dependencies": {
-    "@nuxt/ui": "^2.10.0",
     "@nuxtjs/google-fonts": "^3.0.2",
     "@nuxtjs/supabase": "^1.0.1",
     "@vueuse/motion": "^2.0.0-beta.25",
