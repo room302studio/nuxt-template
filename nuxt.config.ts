@@ -17,7 +17,6 @@ export default defineNuxtConfig({
   modules: [
     // '@nuxtjs/supabase',
     '@vueuse/nuxt',
-    '@vueuse/motion/nuxt',
     ['@nuxtjs/google-fonts', {
       families: {
         'Figtree': [400, 700],
@@ -29,6 +28,13 @@ export default defineNuxtConfig({
       OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
       OPENAI_API_KEY: process.env.OPENAI_API_KEY,
       PRODUCTION: process.env.PRODUCTION,
+    },
+  },
+  css: ['~/assets/css/main.css'],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
     },
   },
 })
