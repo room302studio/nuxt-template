@@ -1,4 +1,4 @@
-import pkg from './package.json';
+import pkg from './package.json'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -10,48 +10,31 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'description', content: pkg.version },
       ],
-    }
-  },
-  nitro: {
-    future: {
-      nativeSWR: true
-    }
-  },
-  routeRules: {
-    '/**': { cache: { swr: true } }
+    },
   },
   ssr: false, // for netlify deploy
   devtools: { enabled: true },
   modules: [
-    '@nuxtjs/supabase',
+    // '@nuxtjs/supabase',
     '@vueuse/nuxt',
-    '@nuxt/ui',
-    [
-      '@nuxtjs/google-fonts',
-      {
-        families: {
-          Figtree: [400, 500, 700, 800],
-        },
+    ['@nuxtjs/google-fonts', {
+      families: {
+        'Figtree': [400, 700],
       },
-    ],
+    }],
   ],
   runtimeConfig: {
-    WEATHER_KEY: process.env.WEATHER_KEY,
     public: {
-      SITE_URL: process.env.SITE_URL,
-      CLICKHOUSE_HOST: process.env.CLICKHOUSE_HOST,
-      CLICKHOUSE_USER: process.env.CLICKHOUSE_USER,
-      CLICKHOUSE_PASSWORD: process.env.CLICKHOUSE_PASSWORD,
+      OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY,
+      OPENAI_API_KEY: process.env.OPENAI_API_KEY,
+      PRODUCTION: process.env.PRODUCTION,
     },
   },
-  supabase: {
-    redirectOptions: {
-      login: '/auth/login',
-      callback: '/auth/confirm',
-      exclude: ['/auth/login', '/auth/confirm']
+  css: ['~/assets/css/main.css'],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
     },
-    cookieOptions: {
-      secure: process.env.NODE_ENV === 'production'
-    }
-  }
-});
+  },
+})

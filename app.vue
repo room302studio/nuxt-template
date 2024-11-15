@@ -1,15 +1,11 @@
 <template>
-  <div>
-    <NuxtPage />
-    <UNotifications />
-  </div>
+  <main>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </main>
 </template>
-<script setup>
-// Apply auth middleware globally
-definePageMeta({
-  middleware: ['auth']
-})
-</script>
+<script setup></script>
 <style>
 /* use Figtree font for everything */
 body {

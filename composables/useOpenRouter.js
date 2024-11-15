@@ -2,28 +2,17 @@ import { computed } from 'vue'
 
 const BASE_URL = 'https://openrouter.ai/api/v1'
 
+// Just keeping the most common models
 export const MODEL_CONFIGS = {
-  'anthropic/claude-3.5-sonnet:beta': {
-    name: 'Claude 3.5 Sonnet (Beta)',
+  'openai/gpt-3.5-turbo': {
+    name: 'GPT-3.5 Turbo',
   },
-  'google/gemini-flash-1.5-8b': {
-    name: 'Gemini Flash 1.5',
+  'openai/gpt-4': {
+    name: 'GPT-4',
   },
-  'google/gemini-pro-1.5': {
-    name: 'Gemini Pro 1.5',
+  'anthropic/claude-3-sonnet': {
+    name: 'Claude 3 Sonnet',
   },
-  'qwen/qwen-2.5-coder-32b-instruct': {
-    name: 'Qwen 2.5 Coder',
-  },
-  'nvidia/llama-3.1-nemotron-70b-instruct': {
-    name: 'Nemotron 70B',
-  },
-  'meta-llama/llama-3.2-3b-instruct:free': {
-    name: 'Llama 3.2 3B (Free)',
-  },
-  'meta-llama/llama-3.2-3b-instruct': {
-    name: 'Llama 3.2 3B',
-  }
 }
 
 export function useOpenRouter() {
